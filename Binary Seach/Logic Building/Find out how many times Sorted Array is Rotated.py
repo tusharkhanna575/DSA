@@ -1,4 +1,10 @@
 class Solution:
+
+    """
+    T.C. : O(logn)
+    S.C. : O(1)
+    """
+
     def findKRotation(self, nums):
         low = 0
         high = len(nums)-1

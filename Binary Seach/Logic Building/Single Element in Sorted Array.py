@@ -1,4 +1,10 @@
 class Solution:
+
+    """
+    T.C. : O(logn)
+    S.C. : O(1)
+    """
+
     def singleNonDuplicate(self, nums):
         n = len(nums)
         if n == 1:

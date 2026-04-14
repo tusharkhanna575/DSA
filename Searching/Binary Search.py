@@ -1,3 +1,9 @@
+"""
+T.C. : O(logn)
+S.C. : O(1)
+"""
+
+
 def binarySearch(arr, target):
     left, right = 0, len(arr) - 1
     while left <= right:
@@ -10,6 +16,7 @@ def binarySearch(arr, target):
             right = mid - 1
     return -1
 
+
 def recursiveBinarySearch(arr, target, left, right):
     if left > right:
         return -1
@@ -20,6 +27,7 @@ def recursiveBinarySearch(arr, target, left, right):
         return recursiveBinarySearch(arr, target, mid + 1, right)
     else:
         return recursiveBinarySearch(arr, target, left, mid - 1)
+
 
 def bultInBinarySearch(arr, target):
     import bisect

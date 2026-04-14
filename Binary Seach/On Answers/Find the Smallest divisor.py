@@ -2,6 +2,12 @@ import math
 
 
 class Solution:
+
+    """
+    T.C. : O(n*logn)
+    S.C. : O(1)
+    """
+
     def smallestDivisor(self, nums, limit):
 
         def help(arr, mid, n):

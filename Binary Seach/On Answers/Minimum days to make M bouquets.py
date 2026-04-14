@@ -1,4 +1,10 @@
 class Solution:
+
+    """
+    T.C. : O(n*logn)
+    S.C. : O(1)
+    """
+
     def roseGarden(self, n, nums, k, m):
 
         def possible(n, arr, day, m, k):

@@ -1,4 +1,10 @@
 class Solution:
+    
+    """
+    T.C. : O(n*logn)
+    S.C. : O(1)
+    """
+
     def aggressiveCows(self, nums, k):
 
         def can_we_place(arr, dist, cows):

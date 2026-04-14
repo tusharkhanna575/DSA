@@ -1,6 +1,12 @@
 class Solution:
+
+    """
+    T.C. : O(logn)
+    S.C. : O(1)
+    """
+
     def NthRoot(self, n, m):
-        
+
         def help(mid, n, m):
             ans = 1
             for _ in range(1, n+1):
@@ -10,7 +16,7 @@ class Solution:
             if ans == m:
                 return 1
             return 0
-        
+
         low = 1
         high = m
         while (low <= high):

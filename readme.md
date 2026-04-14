@@ -1,3 +1,146 @@
-Target : Product Based Company
--
-Start Date : 25 November 2025 
+# DSA Problem Tracker
+
+Target: Product Based Company
+
+Start Date: 25 November 2025
+
+## Overview
+
+This repository is organized as a topic-wise DSA practice tracker. Every problem below links directly to its solution file, so you can open the code from the README and mark your progress as you go.
+
+## Progress Snapshot
+
+| Topic | Problems |
+| --- | ---: |
+| Arrays | 5 |
+| Binary Search | 16 |
+| Binary Trees | 2 |
+| Linked Lists | 1 |
+| Maths | 13 |
+| Patterns | 22 |
+| Searching | 2 |
+| Sorting | 2 |
+| Tree | 3 |
+| Total | 66 |
+
+## Tracker
+
+<details>
+<summary><strong>Arrays</strong></summary>
+
+- [ ] [Advanced / Hard: Count Inversions](Arrays/Advanced/Hard/Count%20Inversions.py)
+- [ ] [Advanced / Hard: Reverse Pairs](Arrays/Advanced/Hard/Reverse%20Pairs.py)
+- [ ] [Basic: Reverse an Array](Arrays/Basic/Reverse%20an%20Array.py)
+- [ ] [Basic: Sum of all Elements](Arrays/Basic/Sum%20of%20all%20Elements.py)
+- [ ] [Kadane's Algorithm](Arrays/Kadane%27s%20Algorithm.py)
+
+</details>
+
+<details>
+<summary><strong>Binary Search</strong></summary>
+
+- [ ] [FAQ: Aggressive Cows](Binary%20Seach/FAQ/Aggressive%20Cows.py)
+- [ ] [Fundamentals: Binary Search](Binary%20Seach/Fundamentals/Binary%20Search.py)
+- [ ] [Fundamentals: Lower bound](Binary%20Seach/Fundamentals/Lower%20bound.py)
+- [ ] [Fundamentals: Upper bound](Binary%20Seach/Fundamentals/Upper%20bound.py)
+- [ ] [Logic Building: Find Minimum in Rotated Sorted Array (Duplicate elements)](Binary%20Seach/Logic%20Building/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20%28Duplicate%20elements%29.py)
+- [ ] [Logic Building: Find Minimum in Rotated Sorted Array (Unique elements)](Binary%20Seach/Logic%20Building/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20%28Unique%20elements%29.py)
+- [ ] [Logic Building: Find out how many times Sorted Array is Rotated](Binary%20Seach/Logic%20Building/Find%20out%20how%20many%20times%20Sorted%20Array%20is%20Rotated.py)
+- [ ] [Logic Building: First and Last Position of Element in Sorted Array](Binary%20Seach/Logic%20Building/First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)
+- [ ] [Logic Building: Search in Rotated Sorted Array (Unique Elements)](Binary%20Seach/Logic%20Building/Search%20in%20Rotated%20Sorted%20Array%20%28Unique%20Elements%29.py)
+- [ ] [Logic Building: Search in Rotated Sorted Array (duplicate elements)](Binary%20Seach/Logic%20Building/Search%20in%20Rotated%20Sorted%20Array%20%28duplicate%20elements%29.py)
+- [ ] [Logic Building: Single Element in Sorted Array](Binary%20Seach/Logic%20Building/Single%20Element%20in%20Sorted%20Array.py)
+- [ ] [On Answers: Find the Smallest divisor](Binary%20Seach/On%20Answers/Find%20the%20Smallest%20divisor.py)
+- [ ] [On Answers: Koko eating bananas](Binary%20Seach/On%20Answers/Koko%20eating%20bananas.py)
+- [ ] [On Answers: Minimum days to make M bouquets](Binary%20Seach/On%20Answers/Minimum%20days%20to%20make%20M%20bouquets.py)
+- [ ] [On Answers: Nth root of a Number](Binary%20Seach/On%20Answers/Nth%20root%20of%20a%20Number.py)
+- [ ] [On Answers: Sqaure root of n](Binary%20Seach/On%20Answers/Sqaure%20root%20of%20n.py)
+
+</details>
+
+<details>
+<summary><strong>Binary Trees</strong></summary>
+
+- [ ] [Count Nodes in Tree](Binary%20Trees/Count%20Nodes%20in%20Tree.py)
+- [ ] [Invert Tree](Binary%20Trees/Invert%20Tree.py)
+
+</details>
+
+<details>
+<summary><strong>Linked Lists</strong></summary>
+
+- [ ] [Single: Traversal](Linked%20Lists/Single/Traversal.py)
+
+</details>
+
+<details>
+<summary><strong>Maths</strong></summary>
+
+- [ ] [Basic: Count Number of Digits in a Number](Maths/Basic/Count%20Number%20of%20Digits%20in%20a%20Number.py)
+- [ ] [Basic: Count Number of Odd Digits in a Number](Maths/Basic/Count%20Number%20of%20Odd%20Digits%20in%20a%20Number.py)
+- [ ] [Basic: Count Prime Number Till N](Maths/Basic/Count%20Prime%20Number%20Till%20N.py)
+- [ ] [Basic: Divisors of a Number](Maths/Basic/Divisors%20of%20a%20Number.py)
+- [ ] [Basic: Factorial](Maths/Basic/Factorial.py)
+- [ ] [Basic: GCD of two Numbers](Maths/Basic/GCD%20of%20two%20Numbers.py)
+- [ ] [Basic: LCM of two Numbers](Maths/Basic/LCM%20of%20two%20Numbers.py)
+- [ ] [Basic: Pallindrome Number](Maths/Basic/Pallindrome%20Number.py)
+- [ ] [Basic: Prime Number](Maths/Basic/Prime%20Number.py)
+- [ ] [Basic: Reverse a Number](Maths/Basic/Reverse%20a%20Number.py)
+- [ ] [Sieve of Eratosthenes: Count Prime Numbers till N](Maths/Sieve%20of%20Eratosthenes/Count%20Prime%20Numbers%20till%20N.py)
+- [ ] [Sieve of Eratosthenes: Number of Primes in range L to R](Maths/Sieve%20of%20Eratosthenes/Number%20of%20Primes%20in%20range%20L%20to%20R.py)
+- [ ] [Sieve of Eratosthenes: Prime Factorization of a Number](Maths/Sieve%20of%20Eratosthenes/Prime%20Factorization%20of%20a%20Number.py)
+
+</details>
+
+<details>
+<summary><strong>Patterns</strong></summary>
+
+- [ ] [Pattern1](Patterns/Pattern1.py)
+- [ ] [Pattern2](Patterns/Pattern2.py)
+- [ ] [Pattern3](Patterns/Pattern3.py)
+- [ ] [Pattern4](Patterns/Pattern4.py)
+- [ ] [Pattern5](Patterns/Pattern5.py)
+- [ ] [Pattern6](Patterns/Pattern6.py)
+- [ ] [Pattern7](Patterns/Pattern7.py)
+- [ ] [Pattern8](Patterns/Pattern8.py)
+- [ ] [Pattern9](Patterns/Pattern9.py)
+- [ ] [Pattern10](Patterns/Pattern10.py)
+- [ ] [Pattern11](Patterns/Pattern11.py)
+- [ ] [Pattern12](Patterns/Pattern12.py)
+- [ ] [Pattern13](Patterns/Pattern13.py)
+- [ ] [Pattern14](Patterns/Pattern14.py)
+- [ ] [Pattern15](Patterns/Pattern15.py)
+- [ ] [Pattern16](Patterns/Pattern16.py)
+- [ ] [Pattern17](Patterns/Pattern17.py)
+- [ ] [Pattern18](Patterns/Pattern18.py)
+- [ ] [Pattern19](Patterns/Pattern19.py)
+- [ ] [Pattern20](Patterns/Pattern20.py)
+- [ ] [Pattern21](Patterns/Pattern21.py)
+- [ ] [Pattern22](Patterns/Pattern22.py)
+
+</details>
+
+<details>
+<summary><strong>Searching</strong></summary>
+
+- [ ] [Binary Search](Searching/Binary%20Search.py)
+- [ ] [Linear Search](Searching/Linear%20Search.py)
+
+</details>
+
+<details>
+<summary><strong>Sorting</strong></summary>
+
+- [ ] [Bubble Sort](Sorting/Bubble%20Sort.py)
+- [ ] [Heap Sort](Sorting/Heap%20Sort.py)
+
+</details>
+
+<details>
+<summary><strong>Tree</strong></summary>
+
+- [ ] [Traversal: inorder](Tree/Traversal/inorder.py)
+- [ ] [Traversal: postorder](Tree/Traversal/postorder.py)
+- [ ] [Traversal: preorder](Tree/Traversal/preorder.py)
+
+</details>

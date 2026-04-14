@@ -2,6 +2,12 @@ from typing import List
 
 
 class Solution:
+
+    """
+    T.C. : O(logn)
+    S.C. : O(1)
+    """
+
     def findMin(self, arr: List[int]) -> int:
         low = 0
         high = len(arr)-1

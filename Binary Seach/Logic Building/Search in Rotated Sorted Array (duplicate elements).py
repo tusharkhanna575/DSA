@@ -1,4 +1,10 @@
 class Solution:
+
+    """
+    T.C. : O(logn)
+    S.C. : O(1)
+    """
+
     def searchInARotatedSortedArrayII(self, nums, k):
         low = 0
         n = len(nums)

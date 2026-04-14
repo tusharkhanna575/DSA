@@ -1,4 +1,10 @@
 class Solution:
+
+    """
+    T.C. : O(n)
+    S.C. : O(n)
+    """
+
     def invert_tree(self, root):
         # your code goes here
         if root:

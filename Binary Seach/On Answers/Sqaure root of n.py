@@ -1,4 +1,10 @@
 class Solution:
+
+    """
+    T.C. : O(logn)
+    S.C. : O(1)
+    """
+
     def floorSqrt(self, n: int) -> int:
         if n <= 1:
             return n

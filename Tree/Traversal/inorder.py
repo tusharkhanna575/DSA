@@ -1,8 +1,15 @@
 class TreeNode:
+
+    """
+    T.C. : O(n)
+    S.C. : O(n)
+    """
+
     def __init__(self, key):
         self.left = None
         self.right = None
         self.val = key
+
 
 def inorder_traversal(root):
     res = []
@@ -11,6 +18,7 @@ def inorder_traversal(root):
         res.append(root.val)
         res = res + inorder_traversal(root.right)
     return res
+
 
 if __name__ == "__main__":
     # Example usage:

@@ -1,8 +1,15 @@
 class TreeNode:
+
+    """
+    T.C. : O(n)
+    S.C. : O(n)
+    """
+
     def __init__(self, key):
         self.left = None
         self.right = None
         self.val = key
+
 
 def postorder_traversal(root):
     res = []
@@ -11,6 +18,7 @@ def postorder_traversal(root):
         res += postorder_traversal(root.right)
         res.append(root.val)
     return res
+
 
 if __name__ == "__main__":
     # Example usage:
