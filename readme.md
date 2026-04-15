@@ -58,12 +58,6 @@ This repository is organized as a topic-wise DSA practice tracker. Every problem
 <summary><strong>Binary Search</strong></summary>
 
 <details>
-<summary><strong>2D Arrays</strong></summary>
-
-    - [ ] [Matrix median](Binary%20Seach/2D%20Arrays/Matrix%20median.py)
-</details>
-
-<details>
 <summary><strong>FAQ</strong></summary>
 
     - [ ] [Aggressive Cows](Binary%20Seach/FAQ/Aggressive%20Cows.py)
