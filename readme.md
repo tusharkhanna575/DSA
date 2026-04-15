@@ -13,7 +13,7 @@ This repository is organized as a topic-wise DSA practice tracker. Every problem
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 5 |
-| Binary Search | 16 |
+| Binary Search | 17 |
 | Binary Trees | 2 |
 | Linked Lists | 1 |
 | Maths | 13 |
@@ -21,7 +21,7 @@ This repository is organized as a topic-wise DSA practice tracker. Every problem
 | Searching | 2 |
 | Sorting | 2 |
 | Tree | 3 |
-| Total | 66 |
+| Total | 67 |
 
 <details>
 <summary><strong>Arrays</strong></summary>
@@ -56,6 +56,12 @@ This repository is organized as a topic-wise DSA practice tracker. Every problem
 
 <details>
 <summary><strong>Binary Search</strong></summary>
+
+<details>
+<summary><strong>2D Arrays</strong></summary>
+
+  - [ ] [Matrix median](Binary%20Seach/2D%20Arrays/Matrix%20median.py)
+</details>
 
 <details>
 <summary><strong>FAQ</strong></summary>
