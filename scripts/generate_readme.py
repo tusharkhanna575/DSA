@@ -12,6 +12,7 @@ EXCLUDED_TOP_LEVEL = {".git", ".github", "scripts", "__pycache__"}
 DISPLAY_NAME_OVERRIDES = {
     "Binary Seach": "Binary Search",
 }
+NESTED_INDENT = "    "
 
 
 def parse_existing_metadata(readme_text: str) -> tuple[str, str]:
@@ -62,7 +63,7 @@ def count_py_files(folder: Path) -> int:
 
 def emit_tree(folder: Path, base: Path, level: int = 0) -> list[str]:
     lines: list[str] = []
-    indent = "  " * level
+    indent = NESTED_INDENT * level
 
     subdirs = [
         p
