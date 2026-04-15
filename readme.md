@@ -51,7 +51,6 @@ This repository is organized as a topic-wise DSA practice tracker. Every problem
     - [ ] [Kadane's Algorithm](Arrays/FAQ/Kadane%27s%20Algorithm.py)
 </details>
 
-
 </details>
 
 <details>
@@ -93,7 +92,6 @@ This repository is organized as a topic-wise DSA practice tracker. Every problem
     - [ ] [Sqaure root of n](Binary%20Seach/On%20Answers/Sqaure%20root%20of%20n.py)
 </details>
 
-
 </details>
 
 <details>
@@ -112,7 +110,6 @@ This repository is organized as a topic-wise DSA practice tracker. Every problem
 
     - [ ] [Traversal](Linked%20Lists/Single/Traversal.py)
 </details>
-
 
 </details>
 
@@ -141,7 +138,6 @@ This repository is organized as a topic-wise DSA practice tracker. Every problem
     - [ ] [Number of Primes in range L to R](Maths/Sieve%20of%20Eratosthenes/Number%20of%20Primes%20in%20range%20L%20to%20R.py)
     - [ ] [Prime Factorization of a Number](Maths/Sieve%20of%20Eratosthenes/Prime%20Factorization%20of%20a%20Number.py)
 </details>
-
 
 </details>
 
@@ -199,6 +195,5 @@ This repository is organized as a topic-wise DSA practice tracker. Every problem
     - [ ] [postorder](Tree/Traversal/postorder.py)
     - [ ] [preorder](Tree/Traversal/preorder.py)
 </details>
-
 
 </details>
