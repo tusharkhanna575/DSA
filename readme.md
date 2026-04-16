@@ -26,7 +26,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 
 | Topic | Problems |
 | --- | ---: |
-| Arrays | 5 |
+| Arrays | 7 |
 | Binary Search | 19 |
 | Binary Trees | 2 |
 | Linked Lists | 1 |
@@ -34,8 +34,9 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Patterns | 22 |
 | Searching | 2 |
 | Sorting | 2 |
+| Strings | 2 |
 | Tree | 3 |
-| **Total** | **69** |
+| **Total** | **73** |
 
 ---
 
@@ -44,12 +45,14 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 Click on a topic below to expand its problems. Each item is shown as a breadcrumb like `Topic / Subtopic / ProblemName`.
 
 <details>
-<summary><strong>Arrays</strong> &nbsp; <sub>(5 problems)</sub></summary>
+<summary><strong>Arrays</strong> &nbsp; <sub>(7 problems)</sub></summary>
 
 > _Notes for **Arrays**:_ add a short description or strategy tips for this topic here.
 
 - [ ] [Arrays / Advanced / Hard / Count Inversions](Arrays/Advanced/Hard/Count%20Inversions.py)
 - [ ] [Arrays / Advanced / Hard / Reverse Pairs](Arrays/Advanced/Hard/Reverse%20Pairs.py)
+- [ ] [Arrays / Basic / Check if the Array is Sorted I](Arrays/Basic/Check%20if%20the%20Array%20is%20Sorted%20I.py)
+- [ ] [Arrays / Basic / Count of odd numbers in array](Arrays/Basic/Count%20of%20odd%20numbers%20in%20array.py)
 - [ ] [Arrays / Basic / Reverse an Array](Arrays/Basic/Reverse%20an%20Array.py)
 - [ ] [Arrays / Basic / Sum of all Elements](Arrays/Basic/Sum%20of%20all%20Elements.py)
 - [ ] [Arrays / FAQ / Kadane's Algorithm](Arrays/FAQ/Kadane%27s%20Algorithm.py)
@@ -170,6 +173,16 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 
 - [ ] [Sorting / Bubble Sort](Sorting/Bubble%20Sort.py)
 - [ ] [Sorting / Heap Sort](Sorting/Heap%20Sort.py)
+
+</details>
+
+<details>
+<summary><strong>Strings</strong> &nbsp; <sub>(2 problems)</sub></summary>
+
+> _Notes for **Strings**:_ add a short description or strategy tips for this topic here.
+
+- [ ] [Strings / Basic / Pallindrome Check](Strings/Basic/Pallindrome%20Check.py)
+- [ ] [Strings / Basic / Reverse a String II](Strings/Basic/Reverse%20a%20String%20II.py)
 
 </details>
 
