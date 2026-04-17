@@ -27,7 +27,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 7 |
-| Binary Search | 21 |
+| Binary Search | 22 |
 | Binary Trees | 2 |
 | Linked Lists | 1 |
 | Maths | 13 |
@@ -36,7 +36,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 2 |
 | Strings | 2 |
 | Tree | 3 |
-| **Total** | **75** |
+| **Total** | **76** |
 
 ---
 
@@ -60,12 +60,13 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 </details>
 
 <details>
-<summary><strong>Binary Search</strong> &nbsp; <sub>(21 problems)</sub></summary>
+<summary><strong>Binary Search</strong> &nbsp; <sub>(22 problems)</sub></summary>
 
 > _Notes for **Binary Search**:_ add a short description or strategy tips for this topic here.
 
 - [ ] [Binary Search / 2D Arrays / Find row with maximum 1's](Binary%20Seach/2D%20Arrays/Find%20row%20with%20maximum%201%27s.py)
 - [ ] [Binary Search / 2D Arrays / Matrix median](Binary%20Seach/2D%20Arrays/Matrix%20median.py)
+- [ ] [Binary Search / 2D Arrays / Median of 2 sorted Arrays](Binary%20Seach/2D%20Arrays/Median%20of%202%20sorted%20Arrays.py)
 - [ ] [Binary Search / 2D Arrays / Search in a 2D matrix](Binary%20Seach/2D%20Arrays/Search%20in%20a%202D%20matrix.py)
 - [ ] [Binary Search / FAQ / Aggressive Cows](Binary%20Seach/FAQ/Aggressive%20Cows.py)
 - [ ] [Binary Search / FAQ / Book Allocation problem](Binary%20Seach/FAQ/Book%20Allocation%20problem.py)
