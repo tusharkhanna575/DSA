@@ -27,16 +27,17 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 7 |
-| Binary Search | 27 |
+| Binary Search | 28 |
 | Binary Trees | 2 |
 | Linked Lists | 1 |
 | Maths | 13 |
 | Patterns | 22 |
+| Recursion | 1 |
 | Searching | 2 |
 | Sorting | 2 |
 | Strings | 2 |
 | Tree | 3 |
-| **Total** | **81** |
+| **Total** | **83** |
 
 ---
 
@@ -60,10 +61,11 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 </details>
 
 <details>
-<summary><strong>Binary Search</strong> &nbsp; <sub>(27 problems)</sub></summary>
+<summary><strong>Binary Search</strong> &nbsp; <sub>(28 problems)</sub></summary>
 
 > _Notes for **Binary Search**:_ add a short description or strategy tips for this topic here.
 
+- [ ] [Binary Search / 2D Arrays / Find Peak Element II](Binary%20Seach/2D%20Arrays/Find%20Peak%20Element%20II.py)
 - [ ] [Binary Search / 2D Arrays / Find row with maximum 1's](Binary%20Seach/2D%20Arrays/Find%20row%20with%20maximum%201%27s.py)
 - [ ] [Binary Search / 2D Arrays / Matrix median](Binary%20Seach/2D%20Arrays/Matrix%20median.py)
 - [ ] [Binary Search / 2D Arrays / Median of 2 sorted Arrays](Binary%20Seach/2D%20Arrays/Median%20of%202%20sorted%20Arrays.py)
@@ -71,7 +73,7 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 - [ ] [Binary Search / 2D Arrays / Search in a 2D matrix II](Binary%20Seach/2D%20Arrays/Search%20in%20a%202D%20matrix%20II.py)
 - [ ] [Binary Search / FAQ / Aggressive Cows](Binary%20Seach/FAQ/Aggressive%20Cows.py)
 - [ ] [Binary Search / FAQ / Book Allocation problem](Binary%20Seach/FAQ/Book%20Allocation%20problem.py)
-- [ ] [Binary Search / FAQ / Find Peak Element](Binary%20Seach/FAQ/Find%20Peak%20Element.py)
+- [ ] [Binary Search / FAQ / Find Peak Element I](Binary%20Seach/FAQ/Find%20Peak%20Element%20I.py)
 - [ ] [Binary Search / FAQ / Kth element of 2 sorted arrays](Binary%20Seach/FAQ/Kth%20element%20of%202%20sorted%20arrays.py)
 - [ ] [Binary Search / FAQ / Minimize Max Distance to Gas Station](Binary%20Seach/FAQ/Minimize%20Max%20Distance%20to%20Gas%20Station.py)
 - [ ] [Binary Search / FAQ / Painter's Partition](Binary%20Seach/FAQ/Painter%27s%20Partition.py)
@@ -161,6 +163,15 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 - [ ] [Patterns / Pattern20](Patterns/Pattern20.py)
 - [ ] [Patterns / Pattern21](Patterns/Pattern21.py)
 - [ ] [Patterns / Pattern22](Patterns/Pattern22.py)
+
+</details>
+
+<details>
+<summary><strong>Recursion</strong> &nbsp; <sub>(1 problems)</sub></summary>
+
+> _Notes for **Recursion**:_ add a short description or strategy tips for this topic here.
+
+- [ ] [Recursion / Implementation Problems / Pow(x,n)](Recursion/Implementation%20Problems/Pow%28x%2Cn%29.py)
 
 </details>
 
