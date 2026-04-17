@@ -27,7 +27,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 7 |
-| Binary Search | 25 |
+| Binary Search | 27 |
 | Binary Trees | 2 |
 | Linked Lists | 1 |
 | Maths | 13 |
@@ -36,7 +36,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 2 |
 | Strings | 2 |
 | Tree | 3 |
-| **Total** | **79** |
+| **Total** | **81** |
 
 ---
 
@@ -60,18 +60,20 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 </details>
 
 <details>
-<summary><strong>Binary Search</strong> &nbsp; <sub>(25 problems)</sub></summary>
+<summary><strong>Binary Search</strong> &nbsp; <sub>(27 problems)</sub></summary>
 
 > _Notes for **Binary Search**:_ add a short description or strategy tips for this topic here.
 
 - [ ] [Binary Search / 2D Arrays / Find row with maximum 1's](Binary%20Seach/2D%20Arrays/Find%20row%20with%20maximum%201%27s.py)
 - [ ] [Binary Search / 2D Arrays / Matrix median](Binary%20Seach/2D%20Arrays/Matrix%20median.py)
 - [ ] [Binary Search / 2D Arrays / Median of 2 sorted Arrays](Binary%20Seach/2D%20Arrays/Median%20of%202%20sorted%20Arrays.py)
-- [ ] [Binary Search / 2D Arrays / Search in a 2D matrix](Binary%20Seach/2D%20Arrays/Search%20in%20a%202D%20matrix.py)
+- [ ] [Binary Search / 2D Arrays / Search in a 2D matrix I](Binary%20Seach/2D%20Arrays/Search%20in%20a%202D%20matrix%20I.py)
+- [ ] [Binary Search / 2D Arrays / Search in a 2D matrix II](Binary%20Seach/2D%20Arrays/Search%20in%20a%202D%20matrix%20II.py)
 - [ ] [Binary Search / FAQ / Aggressive Cows](Binary%20Seach/FAQ/Aggressive%20Cows.py)
 - [ ] [Binary Search / FAQ / Book Allocation problem](Binary%20Seach/FAQ/Book%20Allocation%20problem.py)
 - [ ] [Binary Search / FAQ / Find Peak Element](Binary%20Seach/FAQ/Find%20Peak%20Element.py)
 - [ ] [Binary Search / FAQ / Kth element of 2 sorted arrays](Binary%20Seach/FAQ/Kth%20element%20of%202%20sorted%20arrays.py)
+- [ ] [Binary Search / FAQ / Minimize Max Distance to Gas Station](Binary%20Seach/FAQ/Minimize%20Max%20Distance%20to%20Gas%20Station.py)
 - [ ] [Binary Search / FAQ / Painter's Partition](Binary%20Seach/FAQ/Painter%27s%20Partition.py)
 - [ ] [Binary Search / FAQ / Split array - largest sum](Binary%20Seach/FAQ/Split%20array%20-%20largest%20sum.py)
 - [ ] [Binary Search / Fundamentals / Binary Search](Binary%20Seach/Fundamentals/Binary%20Search.py)
