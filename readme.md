@@ -32,12 +32,12 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Linked Lists | 1 |
 | Maths | 13 |
 | Patterns | 22 |
-| Recursion | 4 |
+| Recursion | 6 |
 | Searching | 2 |
 | Sorting | 2 |
 | Strings | 2 |
 | Tree | 3 |
-| **Total** | **86** |
+| **Total** | **88** |
 
 ---
 
@@ -167,7 +167,7 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 </details>
 
 <details>
-<summary><strong>Recursion</strong> &nbsp; <sub>(4 problems)</sub></summary>
+<summary><strong>Recursion</strong> &nbsp; <sub>(6 problems)</sub></summary>
 
 > _Notes for **Recursion**:_ add a short description or strategy tips for this topic here.
 
@@ -175,6 +175,8 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 - [ ] [Recursion / Implementation Problems / Pow(x,n)](Recursion/Implementation%20Problems/Pow%28x%2Cn%29.py)
 - [ ] [Recursion / Implementation Problems / Subsets I](Recursion/Implementation%20Problems/Subsets%20I.py)
 - [ ] [Recursion / Implementation Problems / Subsets II](Recursion/Implementation%20Problems/Subsets%20II.py)
+- [ ] [Recursion / Subsequence Pattern Problems / Check if there exists a subsequence with sum K](Recursion/Subsequence%20Pattern%20Problems/Check%20if%20there%20exists%20a%20subsequence%20with%20sum%20K.py)
+- [ ] [Recursion / Subsequence Pattern Problems / Count all subsequences with sum k](Recursion/Subsequence%20Pattern%20Problems/Count%20all%20subsequences%20with%20sum%20k.py)
 
 </details>
 
