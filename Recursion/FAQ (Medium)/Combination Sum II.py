@@ -12,13 +12,17 @@ class Solution:
                 return
             if ((sum < 0) or (idx == len(nums))):
                 return
+
+            if nums[idx] > sum:
+                return
+
             arr.append(nums[idx])
             help(idx+1, sum-nums[idx], arr, nums)
             arr.pop()
-            for i in range(idx+1, len(nums)):
-                if nums[i] != nums[idx]:
-                    help(i, sum, arr, nums)
-                    return
+            j = idx+1
+            while j < len(nums) and nums[j] == nums[idx]:
+                j += 1
+            help(j, sum, arr, nums)
 
         candidates.sort()
         ans = []
