@@ -2,7 +2,7 @@ class Solution:
     def combinationSum2(self, candidates, target):
         # your code goes here
         """
-        T.C. : O(n * 2^n)
+        T.C. : O(2^n)
         S.C. : O(n)
         """
 
