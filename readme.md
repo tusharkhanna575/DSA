@@ -32,12 +32,12 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Linked Lists | 1 |
 | Maths | 13 |
 | Patterns | 22 |
-| Recursion | 9 |
+| Recursion | 10 |
 | Searching | 2 |
 | Sorting | 2 |
 | Strings | 2 |
 | Tree | 3 |
-| **Total** | **91** |
+| **Total** | **92** |
 
 ---
 
@@ -167,12 +167,13 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 </details>
 
 <details>
-<summary><strong>Recursion</strong> &nbsp; <sub>(9 problems)</sub></summary>
+<summary><strong>Recursion</strong> &nbsp; <sub>(10 problems)</sub></summary>
 
 > _Notes for **Recursion**:_ add a short description or strategy tips for this topic here.
 
 - [ ] [Recursion / FAQ (Medium) / Combination Sum I](Recursion/FAQ%20%28Medium%29/Combination%20Sum%20I.py)
 - [ ] [Recursion / FAQ (Medium) / Combination Sum II](Recursion/FAQ%20%28Medium%29/Combination%20Sum%20II.py)
+- [ ] [Recursion / FAQ (Medium) / Combination Sum III](Recursion/FAQ%20%28Medium%29/Combination%20Sum%20III.py)
 - [ ] [Recursion / FAQ (Medium) / Subsets Sum](Recursion/FAQ%20%28Medium%29/Subsets%20Sum.py)
 - [ ] [Recursion / Implementation Problems / Generate Parenthesis](Recursion/Implementation%20Problems/Generate%20Parenthesis.py)
 - [ ] [Recursion / Implementation Problems / Pow(x,n)](Recursion/Implementation%20Problems/Pow%28x%2Cn%29.py)
