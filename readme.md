@@ -32,12 +32,12 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Linked Lists | 1 |
 | Maths | 13 |
 | Patterns | 22 |
-| Recursion | 11 |
+| Recursion | 12 |
 | Searching | 2 |
 | Sorting | 2 |
 | Strings | 2 |
 | Tree | 3 |
-| **Total** | **93** |
+| **Total** | **94** |
 
 ---
 
@@ -167,10 +167,11 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 </details>
 
 <details>
-<summary><strong>Recursion</strong> &nbsp; <sub>(11 problems)</sub></summary>
+<summary><strong>Recursion</strong> &nbsp; <sub>(12 problems)</sub></summary>
 
 > _Notes for **Recursion**:_ add a short description or strategy tips for this topic here.
 
+- [ ] [Recursion / FAQ (Hard) / Pallindrome Partioning](Recursion/FAQ%20%28Hard%29/Pallindrome%20Partioning.py)
 - [ ] [Recursion / FAQ (Medium) / Combination Sum I](Recursion/FAQ%20%28Medium%29/Combination%20Sum%20I.py)
 - [ ] [Recursion / FAQ (Medium) / Combination Sum II](Recursion/FAQ%20%28Medium%29/Combination%20Sum%20II.py)
 - [ ] [Recursion / FAQ (Medium) / Combination Sum III](Recursion/FAQ%20%28Medium%29/Combination%20Sum%20III.py)
