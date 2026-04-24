@@ -29,7 +29,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Arrays | 7 |
 | Binary Search | 28 |
 | Binary Trees | 2 |
-| Linked Lists | 1 |
+| Linked Lists | 3 |
 | Maths | 13 |
 | Patterns | 22 |
 | Recursion | 19 |
@@ -37,7 +37,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 2 |
 | Strings | 2 |
 | Tree | 3 |
-| **Total** | **101** |
+| **Total** | **103** |
 
 ---
 
@@ -107,10 +107,12 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 </details>
 
 <details>
-<summary><strong>Linked Lists</strong> &nbsp; <sub>(1 problems)</sub></summary>
+<summary><strong>Linked Lists</strong> &nbsp; <sub>(3 problems)</sub></summary>
 
 > _Notes for **Linked Lists**:_ add a short description or strategy tips for this topic here.
 
+- [ ] [Linked Lists / Single / Deletion of head](Linked%20Lists/Single/Deletion%20of%20head.py)
+- [ ] [Linked Lists / Single / Length](Linked%20Lists/Single/Length.py)
 - [ ] [Linked Lists / Single / Traversal](Linked%20Lists/Single/Traversal.py)
 
 </details>
