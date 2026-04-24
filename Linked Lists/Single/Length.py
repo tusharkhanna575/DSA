@@ -6,14 +6,14 @@ class ListNode:
 
 
 class Solution:
-    def LLTraversal(self, head):
+    def length(self, head):
         """
         T.C. : O(n)
-        S.C. : O(n)
+        S.C. : O(1)
         """
 
-        ans = []
+        count = 0
         while head != None:
-            ans.append(head.val)
+            count += 1
             head = head.next
-        return ans
+        return count
