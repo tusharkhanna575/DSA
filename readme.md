@@ -32,12 +32,12 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Linked Lists | 1 |
 | Maths | 13 |
 | Patterns | 22 |
-| Recursion | 17 |
+| Recursion | 19 |
 | Searching | 2 |
 | Sorting | 2 |
 | Strings | 2 |
 | Tree | 3 |
-| **Total** | **99** |
+| **Total** | **101** |
 
 ---
 
@@ -167,10 +167,12 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 </details>
 
 <details>
-<summary><strong>Recursion</strong> &nbsp; <sub>(17 problems)</sub></summary>
+<summary><strong>Recursion</strong> &nbsp; <sub>(19 problems)</sub></summary>
 
 > _Notes for **Recursion**:_ add a short description or strategy tips for this topic here.
 
+- [ ] [Recursion / Contest / Combination XOR](Recursion/Contest/Combination%20XOR.py)
+- [ ] [Recursion / Contest / Find Distinct Expressions](Recursion/Contest/Find%20Distinct%20Expressions.py)
 - [ ] [Recursion / FAQ (Hard) / M Coloring Problem](Recursion/FAQ%20%28Hard%29/M%20Coloring%20Problem.py)
 - [ ] [Recursion / FAQ (Hard) / N Queen](Recursion/FAQ%20%28Hard%29/N%20Queen.py)
 - [ ] [Recursion / FAQ (Hard) / Pallindrome Partioning](Recursion/FAQ%20%28Hard%29/Pallindrome%20Partioning.py)
