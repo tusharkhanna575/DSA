@@ -29,7 +29,7 @@ class Solution:
             tail = tail.next
         newTail = tail.prev
         newTail.next = None
-        tail.back = None
+        tail.prev = None
         del tail
         return head
 
