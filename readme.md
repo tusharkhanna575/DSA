@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/125 solved** · **125 remaining** · **0.0% complete**
+> Progress: **0/126 solved** · **126 remaining** · **0.0% complete**
 
 ---
 
@@ -27,15 +27,15 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 125 |
-| Total | 125 |
+| Remaining | 126 |
+| Total | 126 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
-| Linked Lists | 0/25 |
+| Linked Lists | 0/26 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
 | Recursion | 0/19 |
@@ -43,7 +43,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/125** |
+| **Total** | **0/126** |
 
 ---
 
@@ -157,7 +157,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Linked Lists</strong> &nbsp; <sub>(0/25 solved · 4 folders)</sub></summary>
+<summary><strong>Linked Lists</strong> &nbsp; <sub>(0/26 solved · 4 folders)</sub></summary>
   - <details>
     <summary><strong>Double</strong> &nbsp; <sub>(0/9 solved)</sub></summary>
 
@@ -194,9 +194,10 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
   </details>
 
   - <details>
-    <summary><strong>Logic Building</strong> &nbsp; <sub>(0/5 solved)</sub></summary>
+    <summary><strong>Logic Building</strong> &nbsp; <sub>(0/6 solved)</sub></summary>
 
     - [ ] [Linked Lists / Logic Building / Add two numbers in linked list](Linked%20Lists/Logic%20Building/Add%20two%20numbers%20in%20linked%20list.py)
+    - [ ] [Linked Lists / Logic Building / Remove nth node from the back of the linked list](Linked%20Lists/Logic%20Building/Remove%20nth%20node%20from%20the%20back%20of%20the%20linked%20list.py)
     - [ ] [Linked Lists / Logic Building / Reverse a LL (Iterative)](Linked%20Lists/Logic%20Building/Reverse%20a%20LL%20%28Iterative%29.py)
     - [ ] [Linked Lists / Logic Building / Reverse a LL (Recursive)](Linked%20Lists/Logic%20Building/Reverse%20a%20LL%20%28Recursive%29.py)
     - [ ] [Linked Lists / Logic Building / Segregate odd and even nodes in linked list](Linked%20Lists/Logic%20Building/Segregate%20odd%20and%20even%20nodes%20in%20linked%20list.py)
