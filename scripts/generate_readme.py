@@ -12,7 +12,7 @@ EXCLUDED_TOP_LEVEL = {".git", ".github", "scripts", "__pycache__"}
 DISPLAY_NAME_OVERRIDES = {
     "Binary Seach": "Binary Search",
 }
-NESTED_INDENT = "    "
+CHECKBOX_LINE_RE = re.compile(r"^- \[( |x|X)\] \[[^\]]+\]\(([^)]+)\)$")
 
 
 def parse_existing_metadata(readme_text: str) -> tuple[str, str]:
@@ -71,6 +71,60 @@ def count_py_files(folder: Path) -> int:
     return sum(1 for _ in folder.rglob("*.py"))
 
 
+def parse_existing_check_states(readme_text: str) -> dict[str, bool]:
+    """Reuse checkbox state from the previous README generation."""
+    states: dict[str, bool] = {}
+
+    for line in readme_text.splitlines():
+        match = CHECKBOX_LINE_RE.match(line.strip())
+        if match:
+            states[match.group(2)] = match.group(1).lower() == "x"
+
+    return states
+
+
+def build_topic_tree(topic: Path) -> dict[str, object]:
+    tree: dict[str, object] = {"children": {}, "files": []}
+
+    py_files = sorted(
+        topic.rglob("*.py"),
+        key=lambda p: natural_sort_key(p.relative_to(topic).as_posix()),
+    )
+
+    for py in py_files:
+        rel_parts = py.relative_to(topic).parts
+        node = tree
+
+        for folder in rel_parts[:-1]:
+            children = node["children"]  # type: ignore[index]
+            # type: ignore[assignment]
+            node = children.setdefault(folder, {"children": {}, "files": []})
+
+        node["files"].append(py)  # type: ignore[index]
+
+    return tree
+
+
+def node_total(node: dict[str, object]) -> int:
+    files = node["files"]  # type: ignore[index]
+    children = node["children"]  # type: ignore[index]
+    return len(files) + sum(node_total(child) for child in children.values())
+
+
+def node_solved(node: dict[str, object], status_map: dict[str, bool], base: Path) -> int:
+    solved = 0
+
+    for py in node["files"]:  # type: ignore[index]
+        rel = encode_link(py.relative_to(base))
+        if status_map.get(rel, False):
+            solved += 1
+
+    for child in node["children"].values():  # type: ignore[index]
+        solved += node_solved(child, status_map, base)
+
+    return solved
+
+
 # ---------------------------------------------------------------------------
 # Breadcrumb-style tree emission
 # ---------------------------------------------------------------------------
@@ -92,24 +146,73 @@ def breadcrumb_for(path: Path, base: Path) -> str:
     return " / ".join(breadcrumb_parts)
 
 
-def emit_topic_files_as_breadcrumbs(topic: Path, base: Path) -> list[str]:
-    """
-    For a given top-level topic folder, list all .py files in
-    a nicely sorted, breadcrumb-style bullet list.
-    """
+def emit_file_list(
+    files: list[Path],
+    base: Path,
+    status_map: dict[str, bool],
+    prefix: str = "",
+) -> list[str]:
     lines: list[str] = []
-    py_files = sorted(topic.rglob("*.py"),
-                      key=lambda p: natural_sort_key(str(p)))
-    if not py_files:
-        lines.append("_No problems yet in this topic._")
-        return lines
-
-    for py in py_files:
+    for py in files:
         rel = py.relative_to(base)
         link = encode_link(rel)
         breadcrumb = breadcrumb_for(py, base)
-        # Markdown checkbox + breadcrumb as link text
-        lines.append(f"- [ ] [{breadcrumb}]({link})")
+        checked = "x" if status_map.get(link, False) else " "
+        lines.append(f"{prefix}- [{checked}] [{breadcrumb}]({link})")
+    return lines
+
+
+def emit_tree_node(
+    node: dict[str, object],
+    base: Path,
+    status_map: dict[str, bool],
+    label: str | None = None,
+    depth: int = 0,
+) -> list[str]:
+    lines: list[str] = []
+    total = node_total(node)
+    solved = node_solved(node, status_map, base)
+    children = node["children"]  # type: ignore[index]
+    files = node["files"]  # type: ignore[index]
+    indent = "  " * depth
+    file_indent = indent + "  "
+
+    if label is not None:
+        if depth == 0:
+            lines.append(f"{indent}<details>")
+            lines.append(
+                f"{indent}<summary><strong>{label}</strong> &nbsp; <sub>({solved}/{total} solved)</sub></summary>"
+            )
+            lines.append("")
+        else:
+            lines.append(f"{indent}- <details>")
+            lines.append(
+                f"{indent}  <summary><strong>{label}</strong> &nbsp; <sub>({solved}/{total} solved)</sub></summary>"
+            )
+            lines.append("")
+
+    if files:
+        lines.extend(emit_file_list(files, base, status_map,
+                     prefix=file_indent if label is not None else ""))
+        if label is not None:
+            lines.append("")
+
+    for child_name in sorted(children, key=natural_sort_key):
+        child = children[child_name]
+        lines.extend(
+            emit_tree_node(
+                child,
+                base,
+                status_map,
+                display_name(child_name),
+                depth=depth + 1,
+            )
+        )
+        lines.append("")
+
+    if label is not None:
+        lines.append(f"{indent}</details>")
+
     return lines
 
 
@@ -119,10 +222,26 @@ def emit_topic_files_as_breadcrumbs(topic: Path, base: Path) -> list[str]:
 
 def build_readme(existing: str) -> str:
     target, start_date = parse_existing_metadata(existing)
+    status_map = parse_existing_check_states(existing)
     topics = collect_top_level_dirs(REPO_ROOT)
-    topic_counts = [(display_name(topic.name), count_py_files(topic))
-                    for topic in topics]
-    total = sum(c for _, c in topic_counts)
+
+    topic_stats: list[tuple[str, int, int, int]] = []
+    solved_total = 0
+    total = 0
+
+    for topic in topics:
+        tree = build_topic_tree(topic)
+        topic_total = node_total(tree)
+        topic_solved = node_solved(tree, status_map, REPO_ROOT)
+        topic_stats.append(
+            (display_name(topic.name), topic_solved, topic_total,
+             len(tree["children"]))  # type: ignore[index]
+        )
+        solved_total += topic_solved
+        total += topic_total
+
+    remaining = total - solved_total
+    completion = (solved_total / total * 100) if total else 0.0
 
     lines: list[str] = []
 
@@ -133,6 +252,10 @@ def build_readme(existing: str) -> str:
     lines.append("")
     lines.append(f"**Start Date:** {start_date}")
     lines.append("")
+    lines.append(
+        f"> Progress: **{solved_total}/{total} solved** · **{remaining} remaining** · **{completion:.1f}% complete**"
+    )
+    lines.append("")
     lines.append("---")
     lines.append("")
 
@@ -141,24 +264,20 @@ def build_readme(existing: str) -> str:
     lines.append("")
     lines.append(
         "This repository is a **topic‑wise DSA practice tracker**. "
-        "Each problem is a Python file, grouped by topic and difficulty. "
-        "Use the checklist below to track what you've solved."
+        "Each problem is a Python file, grouped by topic, subtopic, and folder depth. "
+        "Use the checklist below to track what you've solved and keep the hierarchy readable."
     )
     lines.append("")
     lines.append("**How to use this tracker:**")
     lines.append("")
-    lines.append("1. Pick a topic from the table or list below.")
+    lines.append("1. Pick a topic from the progress table or navigator below.")
     lines.append(
-        "2. Open a problem link – each one goes directly to the solution file.")
+        "2. Follow the nested topic -> subtopic -> problem path to find the file quickly.")
     lines.append(
-        "3. After solving/understanding it, replace `[ ]` with `[x]` in the README.")
+        "3. After solving or revisiting it, tick the checkbox so the next README generation preserves it.")
     lines.append(
         "4. Commit the updated README to record your progress over time.")
     lines.append("")
-    lines.append(
-        "> Tip: The breadcrumb style links (e.g. `Array / Easy / Two Sum`) ")
-    lines.append(
-        "> make it easy to understand the topic and sub‑topic at a glance.")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -166,11 +285,17 @@ def build_readme(existing: str) -> str:
     # Quick stats
     lines.append("## 📊 Progress Snapshot")
     lines.append("")
+    lines.append("| Metric | Value |")
+    lines.append("| --- | ---: |")
+    lines.append(f"| Completed | {solved_total} |")
+    lines.append(f"| Remaining | {remaining} |")
+    lines.append(f"| Total | {total} |")
+    lines.append("")
     lines.append("| Topic | Problems |")
     lines.append("| --- | ---: |")
-    for topic_name, count in topic_counts:
-        lines.append(f"| {topic_name} | {count} |")
-    lines.append(f"| **Total** | **{total}** |")
+    for topic_name, solved, count, _folder_count in topic_stats:
+        lines.append(f"| {topic_name} | {solved}/{count} |")
+    lines.append(f"| **Total** | **{solved_total}/{total}** |")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -179,24 +304,20 @@ def build_readme(existing: str) -> str:
     lines.append("## 🧭 Topic-wise Navigator")
     lines.append("")
     lines.append(
-        "Click on a topic below to expand its problems. "
-        "Each item is shown as a breadcrumb like `Topic / Subtopic / ProblemName`."
+        "Click on a topic below to expand its folder tree. "
+        "Subtopics and subfolders are grouped explicitly so the structure stays easy to scan."
     )
     lines.append("")
 
-    for topic in topics:
+    for topic, (_, solved, count, folder_count) in zip(topics, topic_stats):
         topic_name = display_name(topic.name)
-        topic_count = count_py_files(topic)
+        tree = build_topic_tree(topic)
 
         lines.append("<details>")
-        lines.append(f"<summary><strong>{topic_name}</strong> &nbsp; "
-                     f"<sub>({topic_count} problems)</sub></summary>")
-        lines.append("")
-        # Optional short description placeholder per topic
-        lines.append(f"> _Notes for **{topic_name}**:_ "
-                     f"add a short description or strategy tips for this topic here.")
-        lines.append("")
-        lines.extend(emit_topic_files_as_breadcrumbs(topic, REPO_ROOT))
+        lines.append(
+            f"<summary><strong>{topic_name}</strong> &nbsp; <sub>({solved}/{count} solved · {folder_count} folders)</sub></summary>"
+        )
+        lines.extend(emit_tree_node(tree, REPO_ROOT, status_map))
         lines.append("")
         lines.append("</details>")
         lines.append("")
