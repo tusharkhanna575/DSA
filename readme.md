@@ -29,7 +29,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Arrays | 7 |
 | Binary Search | 28 |
 | Binary Trees | 2 |
-| Linked Lists | 22 |
+| Linked Lists | 23 |
 | Maths | 13 |
 | Patterns | 22 |
 | Recursion | 19 |
@@ -37,7 +37,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 2 |
 | Strings | 2 |
 | Tree | 3 |
-| **Total** | **122** |
+| **Total** | **123** |
 
 ---
 
@@ -107,7 +107,7 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 </details>
 
 <details>
-<summary><strong>Linked Lists</strong> &nbsp; <sub>(22 problems)</sub></summary>
+<summary><strong>Linked Lists</strong> &nbsp; <sub>(23 problems)</sub></summary>
 
 > _Notes for **Linked Lists**:_ add a short description or strategy tips for this topic here.
 
@@ -124,6 +124,7 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 - [ ] [Linked Lists / Logic Building / Reverse a LL (Iterative)](Linked%20Lists/Logic%20Building/Reverse%20a%20LL%20%28Iterative%29.py)
 - [ ] [Linked Lists / Logic Building / Reverse a LL (Recursive)](Linked%20Lists/Logic%20Building/Reverse%20a%20LL%20%28Recursive%29.py)
 - [ ] [Linked Lists / Logic Building / Segregate odd and even nodes in linked list](Linked%20Lists/Logic%20Building/Segregate%20odd%20and%20even%20nodes%20in%20linked%20list.py)
+- [ ] [Linked Lists / Logic Building / Sort a Linked List of 0's 1's and 2's](Linked%20Lists/Logic%20Building/Sort%20a%20Linked%20List%20of%200%27s%201%27s%20and%202%27s.py)
 - [ ] [Linked Lists / Single / Deletion / Delete element with x value](Linked%20Lists/Single/Deletion/Delete%20element%20with%20x%20value.py)
 - [ ] [Linked Lists / Single / Deletion / Delete kth node](Linked%20Lists/Single/Deletion/Delete%20kth%20node.py)
 - [ ] [Linked Lists / Single / Deletion / Deletion of head](Linked%20Lists/Single/Deletion/Deletion%20of%20head.py)
