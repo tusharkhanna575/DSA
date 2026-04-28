@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/123 solved** · **123 remaining** · **0.0% complete**
+> Progress: **0/124 solved** · **124 remaining** · **0.0% complete**
 
 ---
 
@@ -27,15 +27,15 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 123 |
-| Total | 123 |
+| Remaining | 124 |
+| Total | 124 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
-| Linked Lists | 0/23 |
+| Linked Lists | 0/24 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
 | Recursion | 0/19 |
@@ -43,7 +43,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/123** |
+| **Total** | **0/124** |
 
 ---
 
@@ -157,7 +157,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Linked Lists</strong> &nbsp; <sub>(0/23 solved · 3 folders)</sub></summary>
+<summary><strong>Linked Lists</strong> &nbsp; <sub>(0/24 solved · 4 folders)</sub></summary>
   - <details>
     <summary><strong>Double</strong> &nbsp; <sub>(0/9 solved)</sub></summary>
 
@@ -182,6 +182,13 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
       - [ ] [Linked Lists / Double / Insertion / Insert before tail](Linked%20Lists/Double/Insertion/Insert%20before%20tail.py)
 
     </details>
+
+  </details>
+
+  - <details>
+    <summary><strong>FAQ (Medium)</strong> &nbsp; <sub>(0/1 solved)</sub></summary>
+
+    - [ ] [Linked Lists / FAQ (Medium) / Find Middle of Linked List](Linked%20Lists/FAQ%20%28Medium%29/Find%20Middle%20of%20Linked%20List.py)
 
   </details>
 
