@@ -29,7 +29,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Arrays | 7 |
 | Binary Search | 28 |
 | Binary Trees | 2 |
-| Linked Lists | 18 |
+| Linked Lists | 20 |
 | Maths | 13 |
 | Patterns | 22 |
 | Recursion | 19 |
@@ -37,7 +37,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 2 |
 | Strings | 2 |
 | Tree | 3 |
-| **Total** | **118** |
+| **Total** | **120** |
 
 ---
 
@@ -107,7 +107,7 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 </details>
 
 <details>
-<summary><strong>Linked Lists</strong> &nbsp; <sub>(18 problems)</sub></summary>
+<summary><strong>Linked Lists</strong> &nbsp; <sub>(20 problems)</sub></summary>
 
 > _Notes for **Linked Lists**:_ add a short description or strategy tips for this topic here.
 
@@ -120,6 +120,8 @@ Click on a topic below to expand its problems. Each item is shown as a breadcrum
 - [ ] [Linked Lists / Double / Insertion / Insert before head](Linked%20Lists/Double/Insertion/Insert%20before%20head.py)
 - [ ] [Linked Lists / Double / Insertion / Insert before kth node](Linked%20Lists/Double/Insertion/Insert%20before%20kth%20node.py)
 - [ ] [Linked Lists / Double / Insertion / Insert before tail](Linked%20Lists/Double/Insertion/Insert%20before%20tail.py)
+- [ ] [Linked Lists / Logic Building / Reverse a LL (Iterative)](Linked%20Lists/Logic%20Building/Reverse%20a%20LL%20%28Iterative%29.py)
+- [ ] [Linked Lists / Logic Building / Reverse a LL (Recursive)](Linked%20Lists/Logic%20Building/Reverse%20a%20LL%20%28Recursive%29.py)
 - [ ] [Linked Lists / Single / Deletion / Delete element with x value](Linked%20Lists/Single/Deletion/Delete%20element%20with%20x%20value.py)
 - [ ] [Linked Lists / Single / Deletion / Delete kth node](Linked%20Lists/Single/Deletion/Delete%20kth%20node.py)
 - [ ] [Linked Lists / Single / Deletion / Deletion of head](Linked%20Lists/Single/Deletion/Deletion%20of%20head.py)
