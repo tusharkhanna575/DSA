@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/131 solved** · **131 remaining** · **0.0% complete**
+> Progress: **0/132 solved** · **132 remaining** · **0.0% complete**
 
 ---
 
@@ -27,15 +27,15 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 131 |
-| Total | 131 |
+| Remaining | 132 |
+| Total | 132 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
-| Linked Lists | 0/31 |
+| Linked Lists | 0/32 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
 | Recursion | 0/19 |
@@ -43,7 +43,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/131** |
+| **Total** | **0/132** |
 
 ---
 
@@ -157,7 +157,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Linked Lists</strong> &nbsp; <sub>(0/31 solved · 4 folders)</sub></summary>
+<summary><strong>Linked Lists</strong> &nbsp; <sub>(0/32 solved · 4 folders)</sub></summary>
   - <details>
     <summary><strong>Double</strong> &nbsp; <sub>(0/9 solved)</sub></summary>
 
@@ -186,7 +186,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
   </details>
 
   - <details>
-    <summary><strong>FAQ (Medium)</strong> &nbsp; <sub>(0/7 solved)</sub></summary>
+    <summary><strong>FAQ (Medium)</strong> &nbsp; <sub>(0/8 solved)</sub></summary>
 
     - [ ] [Linked Lists / FAQ (Medium) / Add one to a number represented by LL (iterative)](Linked%20Lists/FAQ%20%28Medium%29/Add%20one%20to%20a%20number%20represented%20by%20LL%20%28iterative%29.py)
     - [ ] [Linked Lists / FAQ (Medium) / Add one to a number represented by LL (recursive)](Linked%20Lists/FAQ%20%28Medium%29/Add%20one%20to%20a%20number%20represented%20by%20LL%20%28recursive%29.py)
@@ -195,6 +195,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
     - [ ] [Linked Lists / FAQ (Medium) / Detect a loop in linked list](Linked%20Lists/FAQ%20%28Medium%29/Detect%20a%20loop%20in%20linked%20list.py)
     - [ ] [Linked Lists / FAQ (Medium) / Find Middle of Linked List](Linked%20Lists/FAQ%20%28Medium%29/Find%20Middle%20of%20Linked%20List.py)
     - [ ] [Linked Lists / FAQ (Medium) / Find the intersection point of Y LL](Linked%20Lists/FAQ%20%28Medium%29/Find%20the%20intersection%20point%20of%20Y%20LL.py)
+    - [ ] [Linked Lists / FAQ (Medium) / Find the starting point in LL](Linked%20Lists/FAQ%20%28Medium%29/Find%20the%20starting%20point%20in%20LL.py)
 
   </details>
 
