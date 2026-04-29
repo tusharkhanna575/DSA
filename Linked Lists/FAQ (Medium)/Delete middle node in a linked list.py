@@ -8,7 +8,7 @@ class ListNode:
 class Solution:
     def deleteMiddle(self, head):
         """
-        T.C. : O(n)
+        T.C. : O(n/2)
         S.C. : O(1)
         """
         if head == None or head.next == None:
