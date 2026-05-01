@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/140 solved** · **140 remaining** · **0.0% complete**
+> Progress: **0/141 solved** · **141 remaining** · **0.0% complete**
 
 ---
 
@@ -27,15 +27,15 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 140 |
-| Total | 140 |
+| Remaining | 141 |
+| Total | 141 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
-| Linked Lists | 0/40 |
+| Linked Lists | 0/41 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
 | Recursion | 0/19 |
@@ -43,7 +43,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/140** |
+| **Total** | **0/141** |
 
 ---
 
@@ -157,7 +157,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Linked Lists</strong> &nbsp; <sub>(0/40 solved · 6 folders)</sub></summary>
+<summary><strong>Linked Lists</strong> &nbsp; <sub>(0/41 solved · 6 folders)</sub></summary>
   - <details>
     <summary><strong>Double</strong> &nbsp; <sub>(0/9 solved)</sub></summary>
 
@@ -186,9 +186,10 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
   </details>
 
   - <details>
-    <summary><strong>FAQ (DLL)</strong> &nbsp; <sub>(0/1 solved)</sub></summary>
+    <summary><strong>FAQ (DLL)</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
 
     - [ ] [Linked Lists / FAQ (DLL) / Delete all occurrences of a key in DLL](Linked%20Lists/FAQ%20%28DLL%29/Delete%20all%20occurrences%20of%20a%20key%20in%20DLL.py)
+    - [ ] [Linked Lists / FAQ (DLL) / Remove duplicates from sorted DLL](Linked%20Lists/FAQ%20%28DLL%29/Remove%20duplicates%20from%20sorted%20DLL.py)
 
   </details>
 
