@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/138 solved** · **138 remaining** · **0.0% complete**
+> Progress: **0/139 solved** · **139 remaining** · **0.0% complete**
 
 ---
 
@@ -27,15 +27,15 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 138 |
-| Total | 138 |
+| Remaining | 139 |
+| Total | 139 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
-| Linked Lists | 0/38 |
+| Linked Lists | 0/39 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
 | Recursion | 0/19 |
@@ -43,7 +43,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/138** |
+| **Total** | **0/139** |
 
 ---
 
@@ -157,7 +157,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Linked Lists</strong> &nbsp; <sub>(0/38 solved · 5 folders)</sub></summary>
+<summary><strong>Linked Lists</strong> &nbsp; <sub>(0/39 solved · 5 folders)</sub></summary>
   - <details>
     <summary><strong>Double</strong> &nbsp; <sub>(0/9 solved)</sub></summary>
 
@@ -186,8 +186,9 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
   </details>
 
   - <details>
-    <summary><strong>FAQ (Hard)</strong> &nbsp; <sub>(0/5 solved)</sub></summary>
+    <summary><strong>FAQ (Hard)</strong> &nbsp; <sub>(0/6 solved)</sub></summary>
 
+    - [ ] [Linked Lists / FAQ (Hard) / Clone a LL with random and next pointer](Linked%20Lists/FAQ%20%28Hard%29/Clone%20a%20LL%20with%20random%20and%20next%20pointer.py)
     - [ ] [Linked Lists / FAQ (Hard) / Flattening of LL](Linked%20Lists/FAQ%20%28Hard%29/Flattening%20of%20LL.py)
     - [ ] [Linked Lists / FAQ (Hard) / Merge two Sorted Lists](Linked%20Lists/FAQ%20%28Hard%29/Merge%20two%20Sorted%20Lists.py)
     - [ ] [Linked Lists / FAQ (Hard) / Reverse LL in group of given size K](Linked%20Lists/FAQ%20%28Hard%29/Reverse%20LL%20in%20group%20of%20given%20size%20K.py)
