@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/141 solved** · **141 remaining** · **0.0% complete**
+> Progress: **0/149 solved** · **149 remaining** · **0.0% complete**
 
 ---
 
@@ -27,14 +27,15 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 141 |
-| Total | 141 |
+| Remaining | 149 |
+| Total | 149 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
+| Bit Manipulation | 0/8 |
 | Linked Lists | 0/41 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
@@ -43,7 +44,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/141** |
+| **Total** | **0/149** |
 
 ---
 
@@ -153,6 +154,25 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 <summary><strong>Binary Trees</strong> &nbsp; <sub>(0/2 solved · 0 folders)</sub></summary>
 - [ ] [Binary Trees / Count Nodes in Tree](Binary%20Trees/Count%20Nodes%20in%20Tree.py)
 - [ ] [Binary Trees / Invert Tree](Binary%20Trees/Invert%20Tree.py)
+
+</details>
+
+<details>
+<summary><strong>Bit Manipulation</strong> &nbsp; <sub>(0/8 solved · 1 folders)</sub></summary>
+  - <details>
+    <summary><strong>Easy</strong> &nbsp; <sub>(0/8 solved)</sub></summary>
+
+    - [ ] [Bit Manipulation / Easy / Check if iTh bit is set or not](Bit%20Manipulation/Easy/Check%20if%20iTh%20bit%20is%20set%20or%20not.py)
+    - [ ] [Bit Manipulation / Easy / Check if the number is a power of 2](Bit%20Manipulation/Easy/Check%20if%20the%20number%20is%20a%20power%20of%202.py)
+    - [ ] [Bit Manipulation / Easy / Clear the iTh bit](Bit%20Manipulation/Easy/Clear%20the%20iTh%20bit.py)
+    - [ ] [Bit Manipulation / Easy / Count the number of set bits](Bit%20Manipulation/Easy/Count%20the%20number%20of%20set%20bits.py)
+    - [ ] [Bit Manipulation / Easy / Remove the last set bit](Bit%20Manipulation/Easy/Remove%20the%20last%20set%20bit.py)
+    - [ ] [Bit Manipulation / Easy / Set the iTh bit](Bit%20Manipulation/Easy/Set%20the%20iTh%20bit.py)
+    - [ ] [Bit Manipulation / Easy / Swap two Numbers](Bit%20Manipulation/Easy/Swap%20two%20Numbers.py)
+    - [ ] [Bit Manipulation / Easy / Toggle the iTh bit](Bit%20Manipulation/Easy/Toggle%20the%20iTh%20bit.py)
+
+  </details>
+
 
 </details>
 
