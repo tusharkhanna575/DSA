@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/149 solved** · **149 remaining** · **0.0% complete**
+> Progress: **0/150 solved** · **150 remaining** · **0.0% complete**
 
 ---
 
@@ -27,15 +27,15 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 149 |
-| Total | 149 |
+| Remaining | 150 |
+| Total | 150 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
-| Bit Manipulation | 0/8 |
+| Bit Manipulation | 0/9 |
 | Linked Lists | 0/41 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
@@ -44,7 +44,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/149** |
+| **Total** | **0/150** |
 
 ---
 
@@ -158,7 +158,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Bit Manipulation</strong> &nbsp; <sub>(0/8 solved · 1 folders)</sub></summary>
+<summary><strong>Bit Manipulation</strong> &nbsp; <sub>(0/9 solved · 2 folders)</sub></summary>
   - <details>
     <summary><strong>Easy</strong> &nbsp; <sub>(0/8 solved)</sub></summary>
 
@@ -170,6 +170,13 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
     - [ ] [Bit Manipulation / Easy / Set the iTh bit](Bit%20Manipulation/Easy/Set%20the%20iTh%20bit.py)
     - [ ] [Bit Manipulation / Easy / Swap two Numbers](Bit%20Manipulation/Easy/Swap%20two%20Numbers.py)
     - [ ] [Bit Manipulation / Easy / Toggle the iTh bit](Bit%20Manipulation/Easy/Toggle%20the%20iTh%20bit.py)
+
+  </details>
+
+  - <details>
+    <summary><strong>Medium</strong> &nbsp; <sub>(0/1 solved)</sub></summary>
+
+    - [ ] [Bit Manipulation / Medium / Minimum Bit Flips to Convert Number](Bit%20Manipulation/Medium/Minimum%20Bit%20Flips%20to%20Convert%20Number.py)
 
   </details>
 
