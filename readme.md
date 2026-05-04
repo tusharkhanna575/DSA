@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/155 solved** · **155 remaining** · **0.0% complete**
+> Progress: **0/156 solved** · **156 remaining** · **0.0% complete**
 
 ---
 
@@ -27,15 +27,15 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 155 |
-| Total | 155 |
+| Remaining | 156 |
+| Total | 156 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
-| Bit Manipulation | 0/14 |
+| Bit Manipulation | 0/15 |
 | Linked Lists | 0/41 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
@@ -44,7 +44,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/155** |
+| **Total** | **0/156** |
 
 ---
 
@@ -158,7 +158,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Bit Manipulation</strong> &nbsp; <sub>(0/14 solved · 2 folders)</sub></summary>
+<summary><strong>Bit Manipulation</strong> &nbsp; <sub>(0/15 solved · 2 folders)</sub></summary>
   - <details>
     <summary><strong>Easy</strong> &nbsp; <sub>(0/8 solved)</sub></summary>
 
@@ -174,10 +174,11 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
   </details>
 
   - <details>
-    <summary><strong>Medium</strong> &nbsp; <sub>(0/6 solved)</sub></summary>
+    <summary><strong>Medium</strong> &nbsp; <sub>(0/7 solved)</sub></summary>
 
     - [ ] [Bit Manipulation / Medium / Divide two numbers without multiplication and division](Bit%20Manipulation/Medium/Divide%20two%20numbers%20without%20multiplication%20and%20division.py)
     - [ ] [Bit Manipulation / Medium / Minimum Bit Flips to Convert Number](Bit%20Manipulation/Medium/Minimum%20Bit%20Flips%20to%20Convert%20Number.py)
+    - [ ] [Bit Manipulation / Medium / Power Set (Print all subsets)](Bit%20Manipulation/Medium/Power%20Set%20%28Print%20all%20subsets%29.py)
     - [ ] [Bit Manipulation / Medium / Single Number - I](Bit%20Manipulation/Medium/Single%20Number%20-%20I.py)
     - [ ] [Bit Manipulation / Medium / Single Number - II](Bit%20Manipulation/Medium/Single%20Number%20-%20II.py)
     - [ ] [Bit Manipulation / Medium / Single Number - III](Bit%20Manipulation/Medium/Single%20Number%20-%20III.py)
