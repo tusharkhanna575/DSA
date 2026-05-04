@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/159 solved** · **159 remaining** · **0.0% complete**
+> Progress: **0/162 solved** · **162 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 159 |
-| Total | 159 |
+| Remaining | 162 |
+| Total | 162 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -36,7 +36,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
 | Bit Manipulation | 0/15 |
-| Greedy Algorithms | 0/3 |
+| Greedy Algorithms | 0/6 |
 | Linked Lists | 0/41 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
@@ -45,7 +45,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/159** |
+| **Total** | **0/162** |
 
 ---
 
@@ -191,13 +191,22 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Greedy Algorithms</strong> &nbsp; <sub>(0/3 solved · 1 folders)</sub></summary>
+<summary><strong>Greedy Algorithms</strong> &nbsp; <sub>(0/6 solved · 2 folders)</sub></summary>
   - <details>
     <summary><strong>Easy</strong> &nbsp; <sub>(0/3 solved)</sub></summary>
 
     - [ ] [Greedy Algorithms / Easy / Assign Cookies](Greedy%20Algorithms/Easy/Assign%20Cookies.py)
     - [ ] [Greedy Algorithms / Easy / Jump Game - I](Greedy%20Algorithms/Easy/Jump%20Game%20-%20I.py)
     - [ ] [Greedy Algorithms / Easy / Lemonade Change](Greedy%20Algorithms/Easy/Lemonade%20Change.py)
+
+  </details>
+
+  - <details>
+    <summary><strong>Scheduling & Interval Problems</strong> &nbsp; <sub>(0/3 solved)</sub></summary>
+
+    - [ ] [Greedy Algorithms / Scheduling & Interval Problems / Merge Intervals](Greedy%20Algorithms/Scheduling%20%26%20Interval%20Problems/Merge%20Intervals.py)
+    - [ ] [Greedy Algorithms / Scheduling & Interval Problems / Minimum number of platforms required for a railway station](Greedy%20Algorithms/Scheduling%20%26%20Interval%20Problems/Minimum%20number%20of%20platforms%20required%20for%20a%20railway%20station.py)
+    - [ ] [Greedy Algorithms / Scheduling & Interval Problems / Non - Overlapping Intervals](Greedy%20Algorithms/Scheduling%20%26%20Interval%20Problems/Non%20-%20Overlapping%20Intervals.py)
 
   </details>
 
