@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/156 solved** · **156 remaining** · **0.0% complete**
+> Progress: **0/159 solved** · **159 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 156 |
-| Total | 156 |
+| Remaining | 159 |
+| Total | 159 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -36,6 +36,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
 | Bit Manipulation | 0/15 |
+| Greedy Algorithms | 0/3 |
 | Linked Lists | 0/41 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
@@ -44,7 +45,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/156** |
+| **Total** | **0/159** |
 
 ---
 
@@ -183,6 +184,20 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
     - [ ] [Bit Manipulation / Medium / Single Number - II](Bit%20Manipulation/Medium/Single%20Number%20-%20II.py)
     - [ ] [Bit Manipulation / Medium / Single Number - III](Bit%20Manipulation/Medium/Single%20Number%20-%20III.py)
     - [ ] [Bit Manipulation / Medium / XOR of numbers in a given range](Bit%20Manipulation/Medium/XOR%20of%20numbers%20in%20a%20given%20range.py)
+
+  </details>
+
+
+</details>
+
+<details>
+<summary><strong>Greedy Algorithms</strong> &nbsp; <sub>(0/3 solved · 1 folders)</sub></summary>
+  - <details>
+    <summary><strong>Easy</strong> &nbsp; <sub>(0/3 solved)</sub></summary>
+
+    - [ ] [Greedy Algorithms / Easy / Assign Cookies](Greedy%20Algorithms/Easy/Assign%20Cookies.py)
+    - [ ] [Greedy Algorithms / Easy / Jump Game - I](Greedy%20Algorithms/Easy/Jump%20Game%20-%20I.py)
+    - [ ] [Greedy Algorithms / Easy / Lemonade Change](Greedy%20Algorithms/Easy/Lemonade%20Change.py)
 
   </details>
 
