@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/166 solved** · **166 remaining** · **0.0% complete**
+> Progress: **0/168 solved** · **168 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 166 |
-| Total | 166 |
+| Remaining | 168 |
+| Total | 168 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -36,7 +36,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
 | Bit Manipulation | 0/15 |
-| Greedy Algorithms | 0/10 |
+| Greedy Algorithms | 0/12 |
 | Linked Lists | 0/41 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
@@ -45,7 +45,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/166** |
+| **Total** | **0/168** |
 
 ---
 
@@ -191,13 +191,21 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Greedy Algorithms</strong> &nbsp; <sub>(0/10 solved · 2 folders)</sub></summary>
+<summary><strong>Greedy Algorithms</strong> &nbsp; <sub>(0/12 solved · 3 folders)</sub></summary>
   - <details>
     <summary><strong>Easy</strong> &nbsp; <sub>(0/3 solved)</sub></summary>
 
     - [ ] [Greedy Algorithms / Easy / Assign Cookies](Greedy%20Algorithms/Easy/Assign%20Cookies.py)
     - [ ] [Greedy Algorithms / Easy / Jump Game - I](Greedy%20Algorithms/Easy/Jump%20Game%20-%20I.py)
     - [ ] [Greedy Algorithms / Easy / Lemonade Change](Greedy%20Algorithms/Easy/Lemonade%20Change.py)
+
+  </details>
+
+  - <details>
+    <summary><strong>Hard</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
+
+    - [ ] [Greedy Algorithms / Hard / Candy](Greedy%20Algorithms/Hard/Candy.py)
+    - [ ] [Greedy Algorithms / Hard / Valid Paranthesis Checker](Greedy%20Algorithms/Hard/Valid%20Paranthesis%20Checker.py)
 
   </details>
 
