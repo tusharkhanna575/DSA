@@ -7,7 +7,7 @@ class Solution:
         T.C. : O(nlogn) for sorting the intervals + O(n) for merging the intervals
         S.C. : O(n) for storing the merged intervals
         """
-        intervals.sort()
+        intervals.sort(key=lambda x: x[0])
         ans = []
         for i in range(len(intervals)):
             if not ans or ans[-1][1] < intervals[i][0]:
