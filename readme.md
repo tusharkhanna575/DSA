@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/162 solved** · **162 remaining** · **0.0% complete**
+> Progress: **0/166 solved** · **166 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 162 |
-| Total | 162 |
+| Remaining | 166 |
+| Total | 166 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -36,7 +36,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Binary Search | 0/28 |
 | Binary Trees | 0/2 |
 | Bit Manipulation | 0/15 |
-| Greedy Algorithms | 0/6 |
+| Greedy Algorithms | 0/10 |
 | Linked Lists | 0/41 |
 | Maths | 0/13 |
 | Patterns | 0/22 |
@@ -45,7 +45,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/162** |
+| **Total** | **0/166** |
 
 ---
 
@@ -191,7 +191,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Greedy Algorithms</strong> &nbsp; <sub>(0/6 solved · 2 folders)</sub></summary>
+<summary><strong>Greedy Algorithms</strong> &nbsp; <sub>(0/10 solved · 2 folders)</sub></summary>
   - <details>
     <summary><strong>Easy</strong> &nbsp; <sub>(0/3 solved)</sub></summary>
 
@@ -202,11 +202,15 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
   </details>
 
   - <details>
-    <summary><strong>Scheduling & Interval Problems</strong> &nbsp; <sub>(0/3 solved)</sub></summary>
+    <summary><strong>Scheduling & Interval Problems</strong> &nbsp; <sub>(0/7 solved)</sub></summary>
 
+    - [ ] [Greedy Algorithms / Scheduling & Interval Problems / Insert Interval](Greedy%20Algorithms/Scheduling%20%26%20Interval%20Problems/Insert%20Interval.py)
+    - [ ] [Greedy Algorithms / Scheduling & Interval Problems / Job Sequencing Problem](Greedy%20Algorithms/Scheduling%20%26%20Interval%20Problems/Job%20Sequencing%20Problem.py)
     - [ ] [Greedy Algorithms / Scheduling & Interval Problems / Merge Intervals](Greedy%20Algorithms/Scheduling%20%26%20Interval%20Problems/Merge%20Intervals.py)
     - [ ] [Greedy Algorithms / Scheduling & Interval Problems / Minimum number of platforms required for a railway station](Greedy%20Algorithms/Scheduling%20%26%20Interval%20Problems/Minimum%20number%20of%20platforms%20required%20for%20a%20railway%20station.py)
+    - [ ] [Greedy Algorithms / Scheduling & Interval Problems / N Meetings in one Room](Greedy%20Algorithms/Scheduling%20%26%20Interval%20Problems/N%20Meetings%20in%20one%20Room.py)
     - [ ] [Greedy Algorithms / Scheduling & Interval Problems / Non - Overlapping Intervals](Greedy%20Algorithms/Scheduling%20%26%20Interval%20Problems/Non%20-%20Overlapping%20Intervals.py)
+    - [ ] [Greedy Algorithms / Scheduling & Interval Problems / Shortest Job First](Greedy%20Algorithms/Scheduling%20%26%20Interval%20Problems/Shortest%20Job%20First.py)
 
   </details>
 
