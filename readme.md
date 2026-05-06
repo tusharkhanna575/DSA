@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/168 solved** · **168 remaining** · **0.0% complete**
+> Progress: **0/169 solved** · **169 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 168 |
-| Total | 168 |
+| Remaining | 169 |
+| Total | 169 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -42,10 +42,11 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Patterns | 0/22 |
 | Recursion | 0/19 |
 | Searching | 0/2 |
+| Sliding Window + 2 Pointers | 0/1 |
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/168** |
+| **Total** | **0/169** |
 
 ---
 
@@ -452,6 +453,18 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 <summary><strong>Searching</strong> &nbsp; <sub>(0/2 solved · 0 folders)</sub></summary>
 - [ ] [Searching / Binary Search](Searching/Binary%20Search.py)
 - [ ] [Searching / Linear Search](Searching/Linear%20Search.py)
+
+</details>
+
+<details>
+<summary><strong>Sliding Window + 2 Pointers</strong> &nbsp; <sub>(0/1 solved · 1 folders)</sub></summary>
+  - <details>
+    <summary><strong>Constant Window</strong> &nbsp; <sub>(0/1 solved)</sub></summary>
+
+    - [ ] [Sliding Window + 2 Pointers / Constant Window / Maximum Points You Can Obtain from Cards](Sliding%20Window%20%2B%202%20Pointers/Constant%20Window/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py)
+
+  </details>
+
 
 </details>
 
