@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/177 solved** · **177 remaining** · **0.0% complete**
+> Progress: **0/178 solved** · **178 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 177 |
-| Total | 177 |
+| Remaining | 178 |
+| Total | 178 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -42,11 +42,11 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Patterns | 0/22 |
 | Recursion | 0/19 |
 | Searching | 0/2 |
-| Sliding Window + 2 Pointers | 0/9 |
+| Sliding Window + 2 Pointers | 0/10 |
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/177** |
+| **Total** | **0/178** |
 
 ---
 
@@ -457,7 +457,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Sliding Window + 2 Pointers</strong> &nbsp; <sub>(0/9 solved · 3 folders)</sub></summary>
+<summary><strong>Sliding Window + 2 Pointers</strong> &nbsp; <sub>(0/10 solved · 3 folders)</sub></summary>
   - <details>
     <summary><strong>Constant Window</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
 
@@ -479,9 +479,10 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
   </details>
 
   - <details>
-    <summary><strong>Number of Subarrays</strong> &nbsp; <sub>(0/1 solved)</sub></summary>
+    <summary><strong>Number of Subarrays</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
 
     - [ ] [Sliding Window + 2 Pointers / Number of Subarrays / Counting the Number of Subarrays with a Given Sum](Sliding%20Window%20%2B%202%20Pointers/Number%20of%20Subarrays/Counting%20the%20Number%20of%20Subarrays%20with%20a%20Given%20Sum.py)
+    - [ ] [Sliding Window + 2 Pointers / Number of Subarrays / Number of Substrings Containing All Three Characters](Sliding%20Window%20%2B%202%20Pointers/Number%20of%20Subarrays/Number%20of%20Substrings%20Containing%20All%20Three%20Characters.py)
 
   </details>
 
