@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/178 solved** · **178 remaining** · **0.0% complete**
+> Progress: **0/179 solved** · **179 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 178 |
-| Total | 178 |
+| Remaining | 179 |
+| Total | 179 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -42,11 +42,11 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Patterns | 0/22 |
 | Recursion | 0/19 |
 | Searching | 0/2 |
-| Sliding Window + 2 Pointers | 0/10 |
+| Sliding Window + 2 Pointers | 0/11 |
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/178** |
+| **Total** | **0/179** |
 
 ---
 
@@ -457,7 +457,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Sliding Window + 2 Pointers</strong> &nbsp; <sub>(0/10 solved · 3 folders)</sub></summary>
+<summary><strong>Sliding Window + 2 Pointers</strong> &nbsp; <sub>(0/11 solved · 3 folders)</sub></summary>
   - <details>
     <summary><strong>Constant Window</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
 
@@ -467,7 +467,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
   </details>
 
   - <details>
-    <summary><strong>Longest Substring or Subarray</strong> &nbsp; <sub>(0/6 solved)</sub></summary>
+    <summary><strong>Longest Substring or Subarray</strong> &nbsp; <sub>(0/7 solved)</sub></summary>
 
     - [ ] [Sliding Window + 2 Pointers / Longest Substring or Subarray / Fruit Into Baskets](Sliding%20Window%20%2B%202%20Pointers/Longest%20Substring%20or%20Subarray/Fruit%20Into%20Baskets.py)
     - [ ] [Sliding Window + 2 Pointers / Longest Substring or Subarray / Longest Repeating Character Replacement](Sliding%20Window%20%2B%202%20Pointers/Longest%20Substring%20or%20Subarray/Longest%20Repeating%20Character%20Replacement.py)
@@ -475,6 +475,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
     - [ ] [Sliding Window + 2 Pointers / Longest Substring or Subarray / Longest Substring With At Most K Distinct Characters](Sliding%20Window%20%2B%202%20Pointers/Longest%20Substring%20or%20Subarray/Longest%20Substring%20With%20At%20Most%20K%20Distinct%20Characters.py)
     - [ ] [Sliding Window + 2 Pointers / Longest Substring or Subarray / Longest Substring Without Repeating Characters](Sliding%20Window%20%2B%202%20Pointers/Longest%20Substring%20or%20Subarray/Longest%20Substring%20Without%20Repeating%20Characters.py)
     - [ ] [Sliding Window + 2 Pointers / Longest Substring or Subarray / Max Consecutive Ones III](Sliding%20Window%20%2B%202%20Pointers/Longest%20Substring%20or%20Subarray/Max%20Consecutive%20Ones%20III.py)
+    - [ ] [Sliding Window + 2 Pointers / Longest Substring or Subarray / Minimum Window Substring](Sliding%20Window%20%2B%202%20Pointers/Longest%20Substring%20or%20Subarray/Minimum%20Window%20Substring.py)
 
   </details>
 
