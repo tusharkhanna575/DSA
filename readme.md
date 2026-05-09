@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/179 solved** · **179 remaining** · **0.0% complete**
+> Progress: **0/180 solved** · **180 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 179 |
-| Total | 179 |
+| Remaining | 180 |
+| Total | 180 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -42,11 +42,11 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Patterns | 0/22 |
 | Recursion | 0/19 |
 | Searching | 0/2 |
-| Sliding Window + 2 Pointers | 0/11 |
+| Sliding Window + 2 Pointers | 0/12 |
 | Sorting | 0/2 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/179** |
+| **Total** | **0/180** |
 
 ---
 
@@ -457,7 +457,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Sliding Window + 2 Pointers</strong> &nbsp; <sub>(0/11 solved · 3 folders)</sub></summary>
+<summary><strong>Sliding Window + 2 Pointers</strong> &nbsp; <sub>(0/12 solved · 3 folders)</sub></summary>
   - <details>
     <summary><strong>Constant Window</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
 
@@ -480,8 +480,9 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
   </details>
 
   - <details>
-    <summary><strong>Number of Subarrays</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
+    <summary><strong>Number of Subarrays</strong> &nbsp; <sub>(0/3 solved)</sub></summary>
 
+    - [ ] [Sliding Window + 2 Pointers / Number of Subarrays / Binary Subarrays With Sum](Sliding%20Window%20%2B%202%20Pointers/Number%20of%20Subarrays/Binary%20Subarrays%20With%20Sum.py)
     - [ ] [Sliding Window + 2 Pointers / Number of Subarrays / Counting the Number of Subarrays with a Given Sum](Sliding%20Window%20%2B%202%20Pointers/Number%20of%20Subarrays/Counting%20the%20Number%20of%20Subarrays%20with%20a%20Given%20Sum.py)
     - [ ] [Sliding Window + 2 Pointers / Number of Subarrays / Number of Substrings Containing All Three Characters](Sliding%20Window%20%2B%202%20Pointers/Number%20of%20Subarrays/Number%20of%20Substrings%20Containing%20All%20Three%20Characters.py)
 
