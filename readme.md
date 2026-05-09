@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/183 solved** · **183 remaining** · **0.0% complete**
+> Progress: **0/184 solved** · **184 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 183 |
-| Total | 183 |
+| Remaining | 184 |
+| Total | 184 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -44,10 +44,10 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Searching | 0/2 |
 | Sliding Window + 2 Pointers | 0/13 |
 | Sorting | 0/2 |
-| Stacks + Queues | 0/2 |
+| Stacks + Queues | 0/3 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/183** |
+| **Total** | **0/184** |
 
 ---
 
@@ -501,10 +501,11 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Stacks + Queues</strong> &nbsp; <sub>(0/2 solved · 1 folders)</sub></summary>
+<summary><strong>Stacks + Queues</strong> &nbsp; <sub>(0/3 solved · 1 folders)</sub></summary>
   - <details>
-    <summary><strong>Implementation</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
+    <summary><strong>Implementation</strong> &nbsp; <sub>(0/3 solved)</sub></summary>
 
+    - [ ] [Stacks + Queues / Implementation / Balanced Valid Parenthesis](Stacks%20%2B%20Queues/Implementation/Balanced%20Valid%20Parenthesis.py)
     - [ ] [Stacks + Queues / Implementation / Implement Queue Using Arrays](Stacks%20%2B%20Queues/Implementation/Implement%20Queue%20Using%20Arrays.py)
     - [ ] [Stacks + Queues / Implementation / Implement Stack using Arrays](Stacks%20%2B%20Queues/Implementation/Implement%20Stack%20using%20Arrays.py)
 
