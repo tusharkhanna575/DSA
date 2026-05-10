@@ -1,7 +1,7 @@
 class StackQueue:
 
     """
-    T.C. : O(n)
+    T.C. : O(n) for push, O(1) for pop and peek
     S.C. : O(2 * n)
     """
 
