@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/192 solved** · **192 remaining** · **0.0% complete**
+> Progress: **0/193 solved** · **193 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 192 |
-| Total | 192 |
+| Remaining | 193 |
+| Total | 193 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -44,10 +44,10 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Searching | 0/2 |
 | Sliding Window + 2 Pointers | 0/13 |
 | Sorting | 0/2 |
-| Stacks + Queues | 0/11 |
+| Stacks + Queues | 0/12 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/192** |
+| **Total** | **0/193** |
 
 ---
 
@@ -501,7 +501,7 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Stacks + Queues</strong> &nbsp; <sub>(0/11 solved · 2 folders)</sub></summary>
+<summary><strong>Stacks + Queues</strong> &nbsp; <sub>(0/12 solved · 2 folders)</sub></summary>
   - <details>
     <summary><strong>Implementation</strong> &nbsp; <sub>(0/8 solved)</sub></summary>
 
@@ -517,11 +517,12 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
   </details>
 
   - <details>
-    <summary><strong>Monotonic Stack</strong> &nbsp; <sub>(0/3 solved)</sub></summary>
+    <summary><strong>Monotonic Stack</strong> &nbsp; <sub>(0/4 solved)</sub></summary>
 
     - [ ] [Stacks + Queues / Monotonic Stack / Asteroid Collision](Stacks%20%2B%20Queues/Monotonic%20Stack/Asteroid%20Collision.py)
     - [ ] [Stacks + Queues / Monotonic Stack / Next Greater Element - I](Stacks%20%2B%20Queues/Monotonic%20Stack/Next%20Greater%20Element%20-%20I.py)
     - [ ] [Stacks + Queues / Monotonic Stack / Next Greater Element - II](Stacks%20%2B%20Queues/Monotonic%20Stack/Next%20Greater%20Element%20-%20II.py)
+    - [ ] [Stacks + Queues / Monotonic Stack / Sum of Subarray Minimums](Stacks%20%2B%20Queues/Monotonic%20Stack/Sum%20of%20Subarray%20Minimums.py)
 
   </details>
 
