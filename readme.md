@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/197 solved** · **197 remaining** · **0.0% complete**
+> Progress: **0/198 solved** · **198 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 197 |
-| Total | 197 |
+| Remaining | 198 |
+| Total | 198 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -44,10 +44,10 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Searching | 0/2 |
 | Sliding Window + 2 Pointers | 0/13 |
 | Sorting | 0/2 |
-| Stacks + Queues | 0/16 |
+| Stacks + Queues | 0/17 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/197** |
+| **Total** | **0/198** |
 
 ---
 
@@ -501,11 +501,12 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Stacks + Queues</strong> &nbsp; <sub>(0/16 solved · 3 folders)</sub></summary>
+<summary><strong>Stacks + Queues</strong> &nbsp; <sub>(0/17 solved · 3 folders)</sub></summary>
   - <details>
-    <summary><strong>FAQ</strong> &nbsp; <sub>(0/1 solved)</sub></summary>
+    <summary><strong>FAQ</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
 
     - [ ] [Stacks + Queues / FAQ / Implement Min Stack](Stacks%20%2B%20Queues/FAQ/Implement%20Min%20Stack.py)
+    - [ ] [Stacks + Queues / FAQ / Sliding Window Maximum](Stacks%20%2B%20Queues/FAQ/Sliding%20Window%20Maximum.py)
 
   </details>
 
