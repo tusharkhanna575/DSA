@@ -1,3 +1,5 @@
+# ---------- Using Stack & Prefix Sum ----------
+
 class Solution:
 
     def largestRectangleInHistogram(self, n, heights):
@@ -33,4 +35,27 @@ class Solution:
                     heights[j] += 1
             maxArea = max(
                 maxArea, self.largestRectangleInHistogram(m, heights))
+        return maxArea
+
+
+# ---------- Using Dynamic Programming ----------
+
+class Solution:
+
+    def maximalAreaOfSubMatrixOfAll1(self, matrix):
+        """
+        T.C. : O(n**2 * m)
+        S.C. : O(n*m)
+        """
+        n, m = len(matrix), len(matrix[0])
+        dp = [[0]*m for _ in range(n)]
+        maxArea = 0
+        for i in range(n):
+            for j in range(m):
+                if matrix[i][j] == 1:
+                    dp[i][j] = (dp[i-1][j]+1) if i > 0 else 1
+                    width = dp[i][j]
+                    for k in range(j, -1, -1):
+                        width = min(width, dp[i][k])
+                        maxArea = max(maxArea, width*(j-k+1))
         return maxArea
