@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/203 solved** · **203 remaining** · **0.0% complete**
+> Progress: **0/204 solved** · **204 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 203 |
-| Total | 203 |
+| Remaining | 204 |
+| Total | 204 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -44,10 +44,10 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Searching | 0/2 |
 | Sliding Window + 2 Pointers | 0/13 |
 | Sorting | 0/2 |
-| Stacks + Queues | 0/22 |
+| Stacks + Queues | 0/23 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/203** |
+| **Total** | **0/204** |
 
 ---
 
@@ -501,10 +501,11 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Stacks + Queues</strong> &nbsp; <sub>(0/22 solved · 3 folders)</sub></summary>
+<summary><strong>Stacks + Queues</strong> &nbsp; <sub>(0/23 solved · 3 folders)</sub></summary>
   - <details>
-    <summary><strong>FAQ</strong> &nbsp; <sub>(0/7 solved)</sub></summary>
+    <summary><strong>FAQ</strong> &nbsp; <sub>(0/8 solved)</sub></summary>
 
+    - [ ] [Stacks + Queues / FAQ / Celebrity Problem](Stacks%20%2B%20Queues/FAQ/Celebrity%20Problem.py)
     - [ ] [Stacks + Queues / FAQ / Implement Min Stack](Stacks%20%2B%20Queues/FAQ/Implement%20Min%20Stack.py)
     - [ ] [Stacks + Queues / FAQ / Largest Rectangle in Histogram](Stacks%20%2B%20Queues/FAQ/Largest%20Rectangle%20in%20Histogram.py)
     - [ ] [Stacks + Queues / FAQ / Maximal Rectangle](Stacks%20%2B%20Queues/FAQ/Maximal%20Rectangle.py)
