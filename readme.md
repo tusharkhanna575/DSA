@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/206 solved** · **206 remaining** · **0.0% complete**
+> Progress: **0/211 solved** · **211 remaining** · **0.0% complete**
 
 ---
 
@@ -27,14 +27,14 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 206 |
-| Total | 206 |
+| Remaining | 211 |
+| Total | 211 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
-| Binary Trees | 0/2 |
+| Binary Trees | 0/7 |
 | Bit Manipulation | 0/15 |
 | Greedy Algorithms | 0/12 |
 | Linked Lists | 0/41 |
@@ -47,7 +47,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Stacks + Queues | 0/25 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/206** |
+| **Total** | **0/211** |
 
 ---
 
@@ -154,9 +154,20 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Binary Trees</strong> &nbsp; <sub>(0/2 solved · 0 folders)</sub></summary>
+<summary><strong>Binary Trees</strong> &nbsp; <sub>(0/7 solved · 1 folders)</sub></summary>
 - [ ] [Binary Trees / Count Nodes in Tree](Binary%20Trees/Count%20Nodes%20in%20Tree.py)
 - [ ] [Binary Trees / Invert Tree](Binary%20Trees/Invert%20Tree.py)
+  - <details>
+    <summary><strong>Traversal</strong> &nbsp; <sub>(0/5 solved)</sub></summary>
+
+    - [ ] [Binary Trees / Traversal / Inorder Traversal](Binary%20Trees/Traversal/Inorder%20Traversal.py)
+    - [ ] [Binary Trees / Traversal / Level Order Traversal](Binary%20Trees/Traversal/Level%20Order%20Traversal.py)
+    - [ ] [Binary Trees / Traversal / Postorder Traversal](Binary%20Trees/Traversal/Postorder%20Traversal.py)
+    - [ ] [Binary Trees / Traversal / Pre, Post, Inorder in one traversal](Binary%20Trees/Traversal/Pre%2C%20Post%2C%20Inorder%20in%20one%20traversal.py)
+    - [ ] [Binary Trees / Traversal / Preorder Traversal](Binary%20Trees/Traversal/Preorder%20Traversal.py)
+
+  </details>
+
 
 </details>
 
