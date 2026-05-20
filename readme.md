@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/211 solved** · **211 remaining** · **0.0% complete**
+> Progress: **0/212 solved** · **212 remaining** · **0.0% complete**
 
 ---
 
@@ -27,14 +27,14 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 211 |
-| Total | 211 |
+| Remaining | 212 |
+| Total | 212 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
-| Binary Trees | 0/7 |
+| Binary Trees | 0/8 |
 | Bit Manipulation | 0/15 |
 | Greedy Algorithms | 0/12 |
 | Linked Lists | 0/41 |
@@ -47,7 +47,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Stacks + Queues | 0/25 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/211** |
+| **Total** | **0/212** |
 
 ---
 
@@ -154,9 +154,16 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Binary Trees</strong> &nbsp; <sub>(0/7 solved · 1 folders)</sub></summary>
+<summary><strong>Binary Trees</strong> &nbsp; <sub>(0/8 solved · 2 folders)</sub></summary>
 - [ ] [Binary Trees / Count Nodes in Tree](Binary%20Trees/Count%20Nodes%20in%20Tree.py)
 - [ ] [Binary Trees / Invert Tree](Binary%20Trees/Invert%20Tree.py)
+  - <details>
+    <summary><strong>Medium</strong> &nbsp; <sub>(0/1 solved)</sub></summary>
+
+    - [ ] [Binary Trees / Medium / Maximum Depth in BT](Binary%20Trees/Medium/Maximum%20Depth%20in%20BT.py)
+
+  </details>
+
   - <details>
     <summary><strong>Traversal</strong> &nbsp; <sub>(0/5 solved)</sub></summary>
 
