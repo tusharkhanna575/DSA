@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/212 solved** · **212 remaining** · **0.0% complete**
+> Progress: **0/216 solved** · **216 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 212 |
-| Total | 212 |
+| Remaining | 216 |
+| Total | 216 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -43,11 +43,11 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Recursion | 0/19 |
 | Searching | 0/2 |
 | Sliding Window + 2 Pointers | 0/13 |
-| Sorting | 0/2 |
+| Sorting | 0/6 |
 | Stacks + Queues | 0/25 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/212** |
+| **Total** | **0/216** |
 
 ---
 
@@ -512,9 +512,13 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Sorting</strong> &nbsp; <sub>(0/2 solved · 0 folders)</sub></summary>
+<summary><strong>Sorting</strong> &nbsp; <sub>(0/6 solved · 0 folders)</sub></summary>
 - [ ] [Sorting / Bubble Sort](Sorting/Bubble%20Sort.py)
 - [ ] [Sorting / Heap Sort](Sorting/Heap%20Sort.py)
+- [ ] [Sorting / Insertion Sort](Sorting/Insertion%20Sort.py)
+- [ ] [Sorting / Merge Sort](Sorting/Merge%20Sort.py)
+- [ ] [Sorting / Quick Sort](Sorting/Quick%20Sort.py)
+- [ ] [Sorting / Selection Sort](Sorting/Selection%20Sort.py)
 
 </details>
 
