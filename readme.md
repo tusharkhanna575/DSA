@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/221 solved** · **221 remaining** · **0.0% complete**
+> Progress: **0/222 solved** · **222 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 221 |
-| Total | 221 |
+| Remaining | 222 |
+| Total | 222 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -45,9 +45,9 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sliding Window + 2 Pointers | 0/13 |
 | Sorting | 0/6 |
 | Stacks + Queues | 0/25 |
-| Strings | 0/2 |
+| Strings | 0/3 |
 | Tree | 0/3 |
-| **Total** | **0/221** |
+| **Total** | **0/222** |
 
 ---
 
@@ -154,9 +154,15 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Binary Trees</strong> &nbsp; <sub>(0/13 solved · 2 folders)</sub></summary>
-- [ ] [Binary Trees / Count Nodes in Tree](Binary%20Trees/Count%20Nodes%20in%20Tree.py)
-- [ ] [Binary Trees / Invert Tree](Binary%20Trees/Invert%20Tree.py)
+<summary><strong>Binary Trees</strong> &nbsp; <sub>(0/13 solved · 3 folders)</sub></summary>
+  - <details>
+    <summary><strong>FAQ</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
+
+    - [ ] [Binary Trees / FAQ / Count total nodes in a complete BT](Binary%20Trees/FAQ/Count%20total%20nodes%20in%20a%20complete%20BT.py)
+    - [ ] [Binary Trees / FAQ / Invert Tree](Binary%20Trees/FAQ/Invert%20Tree.py)
+
+  </details>
+
   - <details>
     <summary><strong>Medium</strong> &nbsp; <sub>(0/6 solved)</sub></summary>
 
@@ -576,7 +582,19 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Strings</strong> &nbsp; <sub>(0/2 solved · 1 folders)</sub></summary>
+<summary><strong>Strings</strong> &nbsp; <sub>(0/3 solved · 2 folders)</sub></summary>
+  - <details>
+    <summary><strong>Advanced Algorithms</strong> &nbsp; <sub>(0/1 solved)</sub></summary>
+
+    - <details>
+      <summary><strong>Medium</strong> &nbsp; <sub>(0/1 solved)</sub></summary>
+
+      - [ ] [Strings / Advanced Algorithms / Medium / Reverse every word in a string](Strings/Advanced%20Algorithms/Medium/Reverse%20every%20word%20in%20a%20string.py)
+
+    </details>
+
+  </details>
+
   - <details>
     <summary><strong>Basic</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
 
