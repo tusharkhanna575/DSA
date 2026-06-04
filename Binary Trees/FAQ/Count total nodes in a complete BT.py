@@ -1,13 +1,11 @@
 class Solution:
-
-    """
-    T.C. : O(n)
-    S.C. : O(n)
-    """
-
     ans = 0
 
     def count_nodes(self, root):
+        """
+        T.C. : O(n)
+        S.C. : O(height of tree)
+        """
         # your code goes here
         if root:
             self.ans += 1
