@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/222 solved** · **222 remaining** · **0.0% complete**
+> Progress: **0/219 solved** · **219 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 222 |
-| Total | 222 |
+| Remaining | 219 |
+| Total | 219 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -46,8 +46,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/6 |
 | Stacks + Queues | 0/25 |
 | Strings | 0/3 |
-| Tree | 0/3 |
-| **Total** | **0/222** |
+| **Total** | **0/219** |
 
 ---
 
@@ -600,20 +599,6 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 
     - [ ] [Strings / Basic / Pallindrome Check](Strings/Basic/Pallindrome%20Check.py)
     - [ ] [Strings / Basic / Reverse a String II](Strings/Basic/Reverse%20a%20String%20II.py)
-
-  </details>
-
-
-</details>
-
-<details>
-<summary><strong>Tree</strong> &nbsp; <sub>(0/3 solved · 1 folders)</sub></summary>
-  - <details>
-    <summary><strong>Traversal</strong> &nbsp; <sub>(0/3 solved)</sub></summary>
-
-    - [ ] [Tree / Traversal / inorder](Tree/Traversal/inorder.py)
-    - [ ] [Tree / Traversal / postorder](Tree/Traversal/postorder.py)
-    - [ ] [Tree / Traversal / preorder](Tree/Traversal/preorder.py)
 
   </details>
 
