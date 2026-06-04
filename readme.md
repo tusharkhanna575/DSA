@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/216 solved** · **216 remaining** · **0.0% complete**
+> Progress: **0/221 solved** · **221 remaining** · **0.0% complete**
 
 ---
 
@@ -27,14 +27,14 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 216 |
-| Total | 216 |
+| Remaining | 221 |
+| Total | 221 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
-| Binary Trees | 0/8 |
+| Binary Trees | 0/13 |
 | Bit Manipulation | 0/15 |
 | Greedy Algorithms | 0/12 |
 | Linked Lists | 0/41 |
@@ -47,7 +47,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Stacks + Queues | 0/25 |
 | Strings | 0/2 |
 | Tree | 0/3 |
-| **Total** | **0/216** |
+| **Total** | **0/221** |
 
 ---
 
@@ -154,13 +154,18 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Binary Trees</strong> &nbsp; <sub>(0/8 solved · 2 folders)</sub></summary>
+<summary><strong>Binary Trees</strong> &nbsp; <sub>(0/13 solved · 2 folders)</sub></summary>
 - [ ] [Binary Trees / Count Nodes in Tree](Binary%20Trees/Count%20Nodes%20in%20Tree.py)
 - [ ] [Binary Trees / Invert Tree](Binary%20Trees/Invert%20Tree.py)
   - <details>
-    <summary><strong>Medium</strong> &nbsp; <sub>(0/1 solved)</sub></summary>
+    <summary><strong>Medium</strong> &nbsp; <sub>(0/6 solved)</sub></summary>
 
+    - [ ] [Binary Trees / Medium / Check for balanced binary tree](Binary%20Trees/Medium/Check%20for%20balanced%20binary%20tree.py)
+    - [ ] [Binary Trees / Medium / Check for symmetrical BTs](Binary%20Trees/Medium/Check%20for%20symmetrical%20BTs.py)
+    - [ ] [Binary Trees / Medium / Check if two trees are identical or not](Binary%20Trees/Medium/Check%20if%20two%20trees%20are%20identical%20or%20not.py)
+    - [ ] [Binary Trees / Medium / Diameter of Binary Tree](Binary%20Trees/Medium/Diameter%20of%20Binary%20Tree.py)
     - [ ] [Binary Trees / Medium / Maximum Depth in BT](Binary%20Trees/Medium/Maximum%20Depth%20in%20BT.py)
+    - [ ] [Binary Trees / Medium / Maximum path sum](Binary%20Trees/Medium/Maximum%20path%20sum.py)
 
   </details>
 
