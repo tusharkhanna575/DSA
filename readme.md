@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/220 solved** · **220 remaining** · **0.0% complete**
+> Progress: **0/222 solved** · **222 remaining** · **0.0% complete**
 
 ---
 
@@ -27,8 +27,8 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 220 |
-| Total | 220 |
+| Remaining | 222 |
+| Total | 222 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -36,6 +36,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Binary Search | 0/28 |
 | Binary Trees | 0/14 |
 | Bit Manipulation | 0/15 |
+| Graph | 0/2 |
 | Greedy Algorithms | 0/12 |
 | Linked Lists | 0/41 |
 | Maths | 0/13 |
@@ -46,7 +47,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/6 |
 | Stacks + Queues | 0/25 |
 | Strings | 0/3 |
-| **Total** | **0/220** |
+| **Total** | **0/222** |
 
 ---
 
@@ -215,6 +216,19 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
     - [ ] [Bit Manipulation / Medium / Single Number - II](Bit%20Manipulation/Medium/Single%20Number%20-%20II.py)
     - [ ] [Bit Manipulation / Medium / Single Number - III](Bit%20Manipulation/Medium/Single%20Number%20-%20III.py)
     - [ ] [Bit Manipulation / Medium / XOR of numbers in a given range](Bit%20Manipulation/Medium/XOR%20of%20numbers%20in%20a%20given%20range.py)
+
+  </details>
+
+
+</details>
+
+<details>
+<summary><strong>Graph</strong> &nbsp; <sub>(0/2 solved · 1 folders)</sub></summary>
+  - <details>
+    <summary><strong>Traversal</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
+
+    - [ ] [Graph / Traversal / BFS](Graph/Traversal/BFS.py)
+    - [ ] [Graph / Traversal / DFS](Graph/Traversal/DFS.py)
 
   </details>
 
