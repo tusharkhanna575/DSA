@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/224 solved** · **224 remaining** · **0.0% complete**
+> Progress: **0/226 solved** · **226 remaining** · **0.0% complete**
 
 ---
 
@@ -27,13 +27,14 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 224 |
-| Total | 224 |
+| Remaining | 226 |
+| Total | 226 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
+| Binary Search Trees | 0/2 |
 | Binary Trees | 0/16 |
 | Bit Manipulation | 0/15 |
 | Graph | 0/2 |
@@ -47,7 +48,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/6 |
 | Stacks + Queues | 0/25 |
 | Strings | 0/3 |
-| **Total** | **0/224** |
+| **Total** | **0/226** |
 
 ---
 
@@ -147,6 +148,19 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
     - [ ] [Binary Search / On Answers / Minimum days to make M bouquets](Binary%20Seach/On%20Answers/Minimum%20days%20to%20make%20M%20bouquets.py)
     - [ ] [Binary Search / On Answers / Nth root of a Number](Binary%20Seach/On%20Answers/Nth%20root%20of%20a%20Number.py)
     - [ ] [Binary Search / On Answers / Sqaure root of n](Binary%20Seach/On%20Answers/Sqaure%20root%20of%20n.py)
+
+  </details>
+
+
+</details>
+
+<details>
+<summary><strong>Binary Search Trees</strong> &nbsp; <sub>(0/2 solved · 1 folders)</sub></summary>
+  - <details>
+    <summary><strong>Basic</strong> &nbsp; <sub>(0/2 solved)</sub></summary>
+
+    - [ ] [Binary Search Trees / Basic / Floor and Ceil in BST](Binary%20Search%20Trees/Basic/Floor%20and%20Ceil%20in%20BST.py)
+    - [ ] [Binary Search Trees / Basic / Search in BST](Binary%20Search%20Trees/Basic/Search%20in%20BST.py)
 
   </details>
 
