@@ -4,7 +4,7 @@
 
 **Start Date:** 25 November 2025
 
-> Progress: **0/226 solved** · **226 remaining** · **0.0% complete**
+> Progress: **0/227 solved** · **227 remaining** · **0.0% complete**
 
 ---
 
@@ -27,15 +27,15 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Metric | Value |
 | --- | ---: |
 | Completed | 0 |
-| Remaining | 226 |
-| Total | 226 |
+| Remaining | 227 |
+| Total | 227 |
 
 | Topic | Problems |
 | --- | ---: |
 | Arrays | 0/7 |
 | Binary Search | 0/28 |
 | Binary Search Trees | 0/2 |
-| Binary Trees | 0/16 |
+| Binary Trees | 0/17 |
 | Bit Manipulation | 0/15 |
 | Graph | 0/2 |
 | Greedy Algorithms | 0/12 |
@@ -48,7 +48,7 @@ This repository is a **topic‑wise DSA practice tracker**. Each problem is a Py
 | Sorting | 0/6 |
 | Stacks + Queues | 0/25 |
 | Strings | 0/3 |
-| **Total** | **0/226** |
+| **Total** | **0/227** |
 
 ---
 
@@ -168,13 +168,14 @@ Click on a topic below to expand its folder tree. Subtopics and subfolders are g
 </details>
 
 <details>
-<summary><strong>Binary Trees</strong> &nbsp; <sub>(0/16 solved · 3 folders)</sub></summary>
+<summary><strong>Binary Trees</strong> &nbsp; <sub>(0/17 solved · 3 folders)</sub></summary>
   - <details>
-    <summary><strong>FAQ</strong> &nbsp; <sub>(0/5 solved)</sub></summary>
+    <summary><strong>FAQ</strong> &nbsp; <sub>(0/6 solved)</sub></summary>
 
     - [ ] [Binary Trees / FAQ / Boundary Traversal](Binary%20Trees/FAQ/Boundary%20Traversal.py)
     - [ ] [Binary Trees / FAQ / Count total nodes in a complete BT](Binary%20Trees/FAQ/Count%20total%20nodes%20in%20a%20complete%20BT.py)
     - [ ] [Binary Trees / FAQ / Invert Tree](Binary%20Trees/FAQ/Invert%20Tree.py)
+    - [ ] [Binary Trees / FAQ / Maximum width of BT](Binary%20Trees/FAQ/Maximum%20width%20of%20BT.py)
     - [ ] [Binary Trees / FAQ / Print root to leaf path](Binary%20Trees/FAQ/Print%20root%20to%20leaf%20path.py)
     - [ ] [Binary Trees / FAQ / Print root to node path](Binary%20Trees/FAQ/Print%20root%20to%20node%20path.py)
 
